@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>User Feedback</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 0 16px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .stars span {
+      font-size: 28px;
+      cursor: pointer;
+      padding: 4px;
+    }
+    .stars span.selected {
+      color: gold;
+    }
+    textarea {
+      width: 100%;
+      min-height: 120px;
+      padding: 8px;
+      font-family: inherit;
+    }
+    button {
+      padding: 10px 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+    button.primary {
+      background: #2563eb;
+      color: white;
+    }
+    .status {
+      margin-top: 10px;
+      font-size: 14px;
+    }
+    .ai-response {
+      margin-top: 20px;
+      padding: 12px;
+      border-radius: 8px;
+      background: #f3f4f6;
+    }
+    .nav {
+      text-align: right;
+      margin-bottom: 10px;
+      font-size: 14px;
+    }
+    .nav a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="nav">
+    <!-- Only admins should know/use this -->
+    <a href="/admin.html" target="_blank">Admin Dashboard ↗</a>
+  </div>
+
+  <h1>Share Your Feedback</h1>
+
+  <div>
+    <label><strong>Your Rating:</strong></label>
+    <div class="stars" id="starContainer">
+      <span data-value="1">★</span>
+      <span data-value="2">★</span>
+      <span data-value="3">★</span>
+      <span data-value="4">★</span>
+      <span data-value="5">★</span>
+    </div>
+  </div>
+
+  <div style="margin-top:16px;">
+    <label for="review"><strong>Your Review:</strong></label>
+    <textarea id="review" placeholder="Tell us what you liked or what we can improve..."></textarea>
+  </div>
+
+  <div style="margin-top:16px;">
+    <button class="primary" id="submitBtn">Submit Feedback</button>
+  </div>
+
+  <div class="status" id="status"></div>
+
+  <div class="ai-response" id="aiResponse" style="display: none;">
+    <h3>AI Response</h3>
+    <p id="aiText"></p>
+  </div>
+
+  <script>
+    let selectedRating = 0;
+    const starContainer = document.getElementById("starContainer");
+    const statusEl = document.getElementById("status");
+    const submitBtn = document.getElementById("submitBtn");
+    const aiResponseBox = document.getElementById("aiResponse");
+    const aiText = document.getElementById("aiText");
+
+    starContainer.addEventListener("click", (e) => {
+      if (e.target.dataset.value) {
+        selectedRating = Number(e.target.dataset.value);
+        [...starContainer.children].forEach((star) => {
+          star.classList.toggle(
+            "selected",
+            Number(star.dataset.value) <= selectedRating
+          );
+        });
+      }
+    });
+
+    submitBtn.addEventListener("click", async () => {
+      const review = document.getElementById("review").value.trim();
+
+      if (!selectedRating) {
+        statusEl.textContent = "Please select a rating.";
+        statusEl.style.color = "red";
+        return;
+      }
+      if (!review) {
+        statusEl.textContent = "Please write a short review.";
+        statusEl.style.color = "red";
+        return;
+      }
+
+      statusEl.textContent = "Submitting and generating AI response...";
+      statusEl.style.color = "black";
+      submitBtn.disabled = true;
+
+      try {
+        const res = await fetch("/api/feedback", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            rating: selectedRating,
+            review,
+          }),
+        });
+
+        const data = await res.json();
+
+        if (!res.ok) {
+          throw new Error(data.error || "Request failed");
+        }
+
+        statusEl.textContent = "Thank you for your feedback!";
+        statusEl.style.color = "green";
+
+        aiText.textContent = data.feedback.aiUserResponse;
+        aiResponseBox.style.display = "block";
+
+        // Clear the form
+        document.getElementById("review").value = "";
+        selectedRating = 0;
+        [...starContainer.children].forEach((star) =>
+          star.classList.remove("selected")
+        );
+      } catch (err) {
+        console.error(err);
+        statusEl.textContent =
+          "Sorry, there was an error submitting your feedback.";
+        statusEl.style.color = "red";
+      } finally {
+        submitBtn.disabled = false;
+      }
+    });
+  </script>
+</body>
+</html>
