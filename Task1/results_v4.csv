@@ -1,0 +1,857 @@
+true_stars,predicted_stars,explanation,json_valid,raw_response
+4,4,"The review expresses generally positive sentiment with friendly service, good food and cocktails, and a pleasant atmosphere. The reviewer notes the place was empty late at night, which is explained by location and time, not as a direct complaint. The update about a great patio adds enthusiasm. Overall sentiment and enthusiasm are high, but the mention of the place being dead at midnight is a minor negative point, resulting in some complaints.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses generally positive sentiment with friendly service, good food and cocktails, and a pleasant atmosphere. The reviewer notes the place was empty late at night, which is explained by location and time, not as a direct complaint. The update about a great patio adds enthusiasm. Overall sentiment and enthusiasm are high, but the mention of the place being dead at midnight is a minor negative point, resulting in some complaints.""
+}"
+5,5,"The review expresses a highly positive sentiment, highlighting the crawfish etouffee as the best outside Louisiana. There are no complaints mentioned, and the enthusiasm level is high due to the strong praise.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a highly positive sentiment, highlighting the crawfish etouffee as the best outside Louisiana. There are no complaints mentioned, and the enthusiasm level is high due to the strong praise.""
+}"
+3,3,"The review expresses a neutral to slightly positive sentiment, mentioning that the pizza wraps are good and filling and the iced tea is satisfying. However, the description 'Typical strip mall pizza' suggests a lack of enthusiasm or excitement. There are no explicit complaints, but the overall tone is moderate with low enthusiasm.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses a neutral to slightly positive sentiment, mentioning that the pizza wraps are good and filling and the iced tea is satisfying. However, the description 'Typical strip mall pizza' suggests a lack of enthusiasm or excitement. There are no explicit complaints, but the overall tone is moderate with low enthusiasm.""
+}"
+1,1,"The review expresses strong disappointment and distrust toward Coulter Infiniti, highlighting a major complaint about an unnecessary expensive repair recommendation and poor customer service (denial of cost coverage). The sentiment is very negative (score 1), with multiple complaints (at least 3: incorrect diagnosis, high cost, refusal to assist). Enthusiasm is very low (1), reflecting frustration and dissatisfaction. These factors justify a 1-star rating.",True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong disappointment and distrust toward Coulter Infiniti, highlighting a major complaint about an unnecessary expensive repair recommendation and poor customer service (denial of cost coverage). The sentiment is very negative (score 1), with multiple complaints (at least 3: incorrect diagnosis, high cost, refusal to assist). Enthusiasm is very low (1), reflecting frustration and dissatisfaction. These factors justify a 1-star rating.""
+}"
+5,5,The review expresses strong positive sentiment with enthusiastic language and no complaints mentioned.,True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiment with enthusiastic language and no complaints mentioned.""
+}"
+4,4,"The review expresses an overall positive sentiment with appreciation for the location, price, free parking, cleanliness, room size, and breakfast. There are minor complaints about noise from neighbors in the bathroom and a mention of a potentially 'shady' area, though the reviewer personally did not experience issues. Enthusiasm is moderate to high but tempered by these small negatives, resulting in a positive but not perfect rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses an overall positive sentiment with appreciation for the location, price, free parking, cleanliness, room size, and breakfast. There are minor complaints about noise from neighbors in the bathroom and a mention of a potentially 'shady' area, though the reviewer personally did not experience issues. Enthusiasm is moderate to high but tempered by these small negatives, resulting in a positive but not perfect rating.""
+}"
+4,4,"The review expresses strong positive sentiment about the food quality, variety, and late hours, indicating high enthusiasm. However, there is a minor complaint about inconsistent service, which was resolved in one instance. Overall, sentiment and enthusiasm are high with a small service issue, leading to a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses strong positive sentiment about the food quality, variety, and late hours, indicating high enthusiasm. However, there is a minor complaint about inconsistent service, which was resolved in one instance. Overall, sentiment and enthusiasm are high with a small service issue, leading to a 4-star rating.""
+}"
+4,5,The review expresses very positive sentiment with enthusiastic language and no complaints mentioned.,True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with enthusiastic language and no complaints mentioned.""
+}"
+5,5,"The review expresses a very positive sentiment with phrases like 'great place,' 'one of my favorite places,' 'food is awesome,' and 'very generous portions.' There are no complaints or negative issues mentioned. The enthusiasm level is high, indicated by the use of exclamation and positive descriptors.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with phrases like 'great place,' 'one of my favorite places,' 'food is awesome,' and 'very generous portions.' There are no complaints or negative issues mentioned. The enthusiasm level is high, indicated by the use of exclamation and positive descriptors.""
+}"
+1,1,"The review expresses strong negative sentiment about both service and food quality, mentioning repeated issues with insufficient meat portions. There are multiple complaints and very low enthusiasm, leading to a 1-star rating.",True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong negative sentiment about both service and food quality, mentioning repeated issues with insufficient meat portions. There are multiple complaints and very low enthusiasm, leading to a 1-star rating.""
+}"
+4,5,"The review expresses positive sentiment with no complaints mentioned. The reviewer highlights good food, efficient service for a large group, and reasonable pricing, indicating high enthusiasm.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses positive sentiment with no complaints mentioned. The reviewer highlights good food, efficient service for a large group, and reasonable pricing, indicating high enthusiasm.""
+}"
+5,5,"The review is highly positive with no complaints mentioned. The sentiment score and enthusiasm are both very high, highlighting great flavors, accommodating staff, enjoyable atmosphere, and good prices.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is highly positive with no complaints mentioned. The sentiment score and enthusiasm are both very high, highlighting great flavors, accommodating staff, enjoyable atmosphere, and good prices.""
+}"
+3,5,"The review expresses strong positive sentiment with enthusiasm and no complaints, indicating a highly favorable opinion.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiment with enthusiasm and no complaints, indicating a highly favorable opinion.""
+}"
+4,4,"The review is overall positive with a sentiment score around 4, highlighting good hours, competitive prices, convenient programs, and a well-stocked store that meets specific needs. There are two minor complaints: the deli staff can be inattentive and the parking situation is less than ideal. Enthusiasm is moderate to high (around 4) given the detailed praise and personal experience shared. Since there are some complaints but sentiment and enthusiasm remain strong, a 4-star rating is appropriate.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall positive with a sentiment score around 4, highlighting good hours, competitive prices, convenient programs, and a well-stocked store that meets specific needs. There are two minor complaints: the deli staff can be inattentive and the parking situation is less than ideal. Enthusiasm is moderate to high (around 4) given the detailed praise and personal experience shared. Since there are some complaints but sentiment and enthusiasm remain strong, a 4-star rating is appropriate.""
+}"
+5,5,"The review expresses strong positive sentiment with gratitude and willingness to refer, no complaints mentioned, and high enthusiasm for the service provided.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiment with gratitude and willingness to refer, no complaints mentioned, and high enthusiasm for the service provided.""
+}"
+2,3,"The sentiment is neutral to slightly positive with the burger described as 'good' but not great. There are multiple complaints about high prices and unimpressive fries, indicating some dissatisfaction. Enthusiasm is moderate, shown by initial excitement but tempered by the experience. Overall, the review reflects an average experience with notable negatives.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The sentiment is neutral to slightly positive with the burger described as 'good' but not great. There are multiple complaints about high prices and unimpressive fries, indicating some dissatisfaction. Enthusiasm is moderate, shown by initial excitement but tempered by the experience. Overall, the review reflects an average experience with notable negatives.""
+}"
+4,3,"The reviewer expresses mixed feelings: they appreciate the quality of the designer labels (positive sentiment) but feel uncomfortable with the store's fancy atmosphere and experienced a negative incident with the registry department (complaint). Sentiment is moderate (around 3), with one clear complaint and moderate enthusiasm, leading to a neutral overall rating.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The reviewer expresses mixed feelings: they appreciate the quality of the designer labels (positive sentiment) but feel uncomfortable with the store's fancy atmosphere and experienced a negative incident with the registry department (complaint). Sentiment is moderate (around 3), with one clear complaint and moderate enthusiasm, leading to a neutral overall rating.""
+}"
+4,4,"The sentiment is positive (score 4) as the reviewer appreciates the availability of a smaller burger option with the same toppings, which helps reduce caloric intake. There is one minor complaint about the high calorie count of the regular burger and fries, but overall enthusiasm is moderate (score 4) due to the helpful suggestion. Therefore, the final rating is 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The sentiment is positive (score 4) as the reviewer appreciates the availability of a smaller burger option with the same toppings, which helps reduce caloric intake. There is one minor complaint about the high calorie count of the regular burger and fries, but overall enthusiasm is moderate (score 4) due to the helpful suggestion. Therefore, the final rating is 4 stars.""
+}"
+5,5,"The review expresses very positive sentiment with words like 'great' and 'awesome', mentions no complaints, and shows high enthusiasm for the guacamole pizza appetizer.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with words like 'great' and 'awesome', mentions no complaints, and shows high enthusiasm for the guacamole pizza appetizer.""
+}"
+5,4,"The review expresses a generally positive sentiment about the airport's convenience and quick process from landing to rental car pickup, indicating a sentiment score of around 4. There is one mild complaint about the limited flight options and the quality of in-flight snacks, resulting in one negative issue mentioned. The enthusiasm level is moderate to high (around 4) due to the positive tone about convenience and efficiency. Given the sentiment and enthusiasm are both ≥4 but there is a minor complaint, the final rating is 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment about the airport's convenience and quick process from landing to rental car pickup, indicating a sentiment score of around 4. There is one mild complaint about the limited flight options and the quality of in-flight snacks, resulting in one negative issue mentioned. The enthusiasm level is moderate to high (around 4) due to the positive tone about convenience and efficiency. Given the sentiment and enthusiasm are both ≥4 but there is a minor complaint, the final rating is 4 stars.""
+}"
+5,4,"The review expresses a positive sentiment about the burger and fries, highlighting improvements and enjoyment. However, there are two minor complaints: the use of styrofoam soda cups and limited drink size options. Enthusiasm is high, but the presence of these complaints reduces the rating from 5 to 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive sentiment about the burger and fries, highlighting improvements and enjoyment. However, there are two minor complaints: the use of styrofoam soda cups and limited drink size options. Enthusiasm is high, but the presence of these complaints reduces the rating from 5 to 4 stars.""
+}"
+5,4,"The review is overall very positive about the food quality, value, and staff friendliness, indicating a high sentiment score (around 4.5) and enthusiasm (4). However, it mentions the restaurant's less desirable atmosphere (bar setting near casino noise), which counts as a minor complaint. Since sentiment and enthusiasm are high but there is a noted complaint, the rating is 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall very positive about the food quality, value, and staff friendliness, indicating a high sentiment score (around 4.5) and enthusiasm (4). However, it mentions the restaurant's less desirable atmosphere (bar setting near casino noise), which counts as a minor complaint. Since sentiment and enthusiasm are high but there is a noted complaint, the rating is 4 stars.""
+}"
+1,1,"The review expresses strong negative sentiment with multiple complaints including rude staff, unclear pricing, overpriced bowling, uncomfortable temperature, and malfunctioning equipment. Enthusiasm is very low, indicating a highly unpleasant experience.",True,"```json
+{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong negative sentiment with multiple complaints including rude staff, unclear pricing, overpriced bowling, uncomfortable temperature, and malfunctioning equipment. Enthusiasm is very low, indicating a highly unpleasant experience.""
+}
+```"
+4,4,"The review is overall positive with helpful and friendly staff, clean and updated rooms, good banquet food with variety, and a fantastic pool area. Complaints include noise from the courtyard-facing window and some salty food items, but these are minor and do not heavily detract from the experience. Sentiment and enthusiasm are high, but presence of some complaints lowers the rating from 5 to 4 stars.",True,"```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall positive with helpful and friendly staff, clean and updated rooms, good banquet food with variety, and a fantastic pool area. Complaints include noise from the courtyard-facing window and some salty food items, but these are minor and do not heavily detract from the experience. Sentiment and enthusiasm are high, but presence of some complaints lowers the rating from 5 to 4 stars.""
+}
+```"
+4,5,"The review expresses a very positive sentiment with no complaints mentioned. The reviewer is enthusiastic about the freshness, quality, and taste of the food, as well as the friendly service. Both sentiment and enthusiasm are high, and no negative issues are raised.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with no complaints mentioned. The reviewer is enthusiastic about the freshness, quality, and taste of the food, as well as the friendly service. Both sentiment and enthusiasm are high, and no negative issues are raised.""
+}"
+4,5,"The review expresses a positive sentiment with no complaints mentioned. The customer was fully satisfied with their entrees, praised the quality and taste of the food and drink, and described the restaurant as a good, affordable option. Enthusiasm is moderate to high given the positive tone and specific compliments.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a positive sentiment with no complaints mentioned. The customer was fully satisfied with their entrees, praised the quality and taste of the food and drink, and described the restaurant as a good, affordable option. Enthusiasm is moderate to high given the positive tone and specific compliments.""
+}"
+1,2,"The review expresses a negative sentiment due to high prices, indicating one clear complaint. Enthusiasm is low as the comment is brief and critical. Therefore, the rating is low, reflecting dissatisfaction primarily about pricing.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses a negative sentiment due to high prices, indicating one clear complaint. Enthusiasm is low as the comment is brief and critical. Therefore, the rating is low, reflecting dissatisfaction primarily about pricing.""
+}"
+4,4,"The review expresses generally positive sentiment with appreciation for the value (2 meals for $13.99), good portion sizes, and friendly, fast service. The reviewer is enthusiastic about the food quality and options, especially when avoiding fried items. However, there is a minor complaint about the pricing of the first drink in the 2-for-1 deal, which slightly lowers the overall sentiment. Sentiment and enthusiasm are high, but the presence of a small complaint results in a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses generally positive sentiment with appreciation for the value (2 meals for $13.99), good portion sizes, and friendly, fast service. The reviewer is enthusiastic about the food quality and options, especially when avoiding fried items. However, there is a minor complaint about the pricing of the first drink in the 2-for-1 deal, which slightly lowers the overall sentiment. Sentiment and enthusiasm are high, but the presence of a small complaint results in a 4-star rating.""
+}"
+2,2,"The review expresses negative sentiment about the wood saw being frequently out of service and higher prices compared to a competitor, indicating at least two complaints. The staff is described as 'a little strange,' adding to the negative tone. Although the garden department and short checkout times are positive points, overall enthusiasm is low, reflected by the dismissive 'Meh.' Sentiment is low with multiple complaints, resulting in a 2-star rating.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses negative sentiment about the wood saw being frequently out of service and higher prices compared to a competitor, indicating at least two complaints. The staff is described as 'a little strange,' adding to the negative tone. Although the garden department and short checkout times are positive points, overall enthusiasm is low, reflected by the dismissive 'Meh.' Sentiment is low with multiple complaints, resulting in a 2-star rating.""
+}"
+2,2,"The review expresses strong negative sentiment due to poor and slow service, lack of basic table setup, and unprofessional behavior by the server. There are multiple complaints about delays and inadequate service, though the food quality is noted as acceptable. Enthusiasm is low given the dissatisfaction and reluctance to return. Overall, sentiment is around 2 with several significant complaints, resulting in a low rating.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses strong negative sentiment due to poor and slow service, lack of basic table setup, and unprofessional behavior by the server. There are multiple complaints about delays and inadequate service, though the food quality is noted as acceptable. Enthusiasm is low given the dissatisfaction and reluctance to return. Overall, sentiment is around 2 with several significant complaints, resulting in a low rating.""
+}"
+1,1,"The review expresses strong negative sentiment with multiple complaints about the food being bland, tasteless, dry, and poorly prepared. The reviewer explicitly states they will not return and advises others to go elsewhere, indicating very low enthusiasm and high dissatisfaction.",True,"```json
+{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong negative sentiment with multiple complaints about the food being bland, tasteless, dry, and poorly prepared. The reviewer explicitly states they will not return and advises others to go elsewhere, indicating very low enthusiasm and high dissatisfaction.""
+}
+```"
+1,2,"The review expresses strong negative sentiment due to multiple frustrations: lack of pay-at-the-pump, confusing payment system, obstructive rubber nozzle, and no receipt issued. The reviewer is clearly annoyed and unwilling to return, indicating low enthusiasm. Complaints are numerous and significant, leading to a low rating.",True,"```json
+{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses strong negative sentiment due to multiple frustrations: lack of pay-at-the-pump, confusing payment system, obstructive rubber nozzle, and no receipt issued. The reviewer is clearly annoyed and unwilling to return, indicating low enthusiasm. Complaints are numerous and significant, leading to a low rating.""
+}
+```"
+3,4,"The reviewer expresses generally positive sentiment about the food, especially the pulled pork and sauce, and indicates a strong intention to return, showing enthusiasm rated at 4. However, there are minor complaints about the location and the slaw needing improvement, resulting in some negative issues. Overall sentiment is positive but not perfect, leading to a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer expresses generally positive sentiment about the food, especially the pulled pork and sauce, and indicates a strong intention to return, showing enthusiasm rated at 4. However, there are minor complaints about the location and the slaw needing improvement, resulting in some negative issues. Overall sentiment is positive but not perfect, leading to a 4-star rating.""
+}"
+4,5,"The review is overwhelmingly positive with a sentiment score of 5, expressing strong enthusiasm (5) and no real complaints or negative issues mentioned. The reviewer raves about the breakfast, coffee, and the unique atmosphere, showing high affection for the place despite a minor note about the clientele being 'yuppified,' which is not framed negatively. Overall, the tone is playful, warm, and highly favorable.",True,"```json
+{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is overwhelmingly positive with a sentiment score of 5, expressing strong enthusiasm (5) and no real complaints or negative issues mentioned. The reviewer raves about the breakfast, coffee, and the unique atmosphere, showing high affection for the place despite a minor note about the clientele being 'yuppified,' which is not framed negatively. Overall, the tone is playful, warm, and highly favorable.""
+}
+```"
+5,5,"The review expresses very positive sentiment with high enthusiasm, highlighting cleanliness, efficiency, friendly employees, and fresh food. No complaints or negative issues are mentioned, indicating a strong overall satisfaction.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with high enthusiasm, highlighting cleanliness, efficiency, friendly employees, and fresh food. No complaints or negative issues are mentioned, indicating a strong overall satisfaction.""
+}"
+5,5,"The review expresses a very positive sentiment with no complaints mentioned. The reviewer highlights the family vibe, friendly and down-to-earth tattooers, variety of styles, and a welcoming atmosphere. Enthusiasm is high as the reviewer plans to recommend the shop to friends and family.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with no complaints mentioned. The reviewer highlights the family vibe, friendly and down-to-earth tattooers, variety of styles, and a welcoming atmosphere. Enthusiasm is high as the reviewer plans to recommend the shop to friends and family.""
+}"
+5,5,"The review expresses very positive sentiment with no complaints mentioned. The language is enthusiastic and praises the sandwich quality and bread texture, indicating high satisfaction and enthusiasm.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with no complaints mentioned. The language is enthusiastic and praises the sandwich quality and bread texture, indicating high satisfaction and enthusiasm.""
+}"
+5,4,"The review expresses a generally positive sentiment with enjoyment of the chicken and waffles, good flavor, and willingness to return. Complaints include the wait time, crowding, lack of butter initially, portion sizes being smaller and more expensive than expected, and one family member disliking their pancakes. Enthusiasm is moderately high as the reviewer plans to try more items. Overall, sentiment and enthusiasm are strong but tempered by some notable complaints, leading to a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment with enjoyment of the chicken and waffles, good flavor, and willingness to return. Complaints include the wait time, crowding, lack of butter initially, portion sizes being smaller and more expensive than expected, and one family member disliking their pancakes. Enthusiasm is moderately high as the reviewer plans to try more items. Overall, sentiment and enthusiasm are strong but tempered by some notable complaints, leading to a 4-star rating.""
+}"
+4,4,"The review is overall positive with delicious food and enthusiastic recommendations (sentiment and enthusiasm around 4). Complaints include disliking cafeteria style ordering, ribs needing BBQ sauce, and dad not liking the coleslaw, totaling 3 minor negative points. Since sentiment is high but some complaints exist, the rating is 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall positive with delicious food and enthusiastic recommendations (sentiment and enthusiasm around 4). Complaints include disliking cafeteria style ordering, ribs needing BBQ sauce, and dad not liking the coleslaw, totaling 3 minor negative points. Since sentiment is high but some complaints exist, the rating is 4 stars.""
+}"
+2,1,The review expresses strong negative sentiment with clear dissatisfaction ('wasted 38 bucks') and a definitive statement of no future use ('never again'). There is one clear complaint and very low enthusiasm.,True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong negative sentiment with clear dissatisfaction ('wasted 38 bucks') and a definitive statement of no future use ('never again'). There is one clear complaint and very low enthusiasm.""
+}"
+3,2,"The overall sentiment is negative (score 2) with multiple complaints about food quality, value for money, and mediocrity despite good service. Enthusiasm is low (2) as the reviewer was unimpressed and disappointed. Several specific negative issues were mentioned, including subpar dishes compared to other restaurants, overpriced meals, and disappointing dessert and breakfast items.",True,"```json
+{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The overall sentiment is negative (score 2) with multiple complaints about food quality, value for money, and mediocrity despite good service. Enthusiasm is low (2) as the reviewer was unimpressed and disappointed. Several specific negative issues were mentioned, including subpar dishes compared to other restaurants, overpriced meals, and disappointing dessert and breakfast items.""
+}
+```"
+1,1,"The review expresses very negative sentiment about the food quality, specifically the steak being underwhelming and not as ordered, with complaints about the salad, veggies, and bread freshness. Although service was praised as excellent, the overall dining experience was poor, including discomfort due to cramped seating and unpleasant noise. The reviewer shows low enthusiasm and strong dissatisfaction, indicating a severe negative experience.",True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses very negative sentiment about the food quality, specifically the steak being underwhelming and not as ordered, with complaints about the salad, veggies, and bread freshness. Although service was praised as excellent, the overall dining experience was poor, including discomfort due to cramped seating and unpleasant noise. The reviewer shows low enthusiasm and strong dissatisfaction, indicating a severe negative experience.""
+}"
+1,2,"The review expresses a largely negative sentiment, highlighting several complaints such as poor drink quality, outdated decor, and unappealing music. The tone is sarcastic and critical, with only minor positive notes about the appeal to under-21 patrons and the DJ's music being mainstream. Enthusiasm is low due to the negative framing and sarcastic remarks. Overall, the sentiment score is around 2, with multiple complaints and low enthusiasm, resulting in a 2-star rating.",True,"```json
+{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses a largely negative sentiment, highlighting several complaints such as poor drink quality, outdated decor, and unappealing music. The tone is sarcastic and critical, with only minor positive notes about the appeal to under-21 patrons and the DJ's music being mainstream. Enthusiasm is low due to the negative framing and sarcastic remarks. Overall, the sentiment score is around 2, with multiple complaints and low enthusiasm, resulting in a 2-star rating.""
+}
+```"
+3,3,"The review expresses mixed feelings: the view and nature are praised positively, but the experience is marred by getting lost, poor trail markings, confusing paths, and a frustrating hike. There are multiple complaints about the trail layout and signage, indicating negative issues. The sentiment is moderate (around 3), with some humor and resilience showing moderate enthusiasm but not high excitement. Overall, the review balances positive and negative aspects, resulting in a neutral to slightly negative impression.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses mixed feelings: the view and nature are praised positively, but the experience is marred by getting lost, poor trail markings, confusing paths, and a frustrating hike. There are multiple complaints about the trail layout and signage, indicating negative issues. The sentiment is moderate (around 3), with some humor and resilience showing moderate enthusiasm but not high excitement. Overall, the review balances positive and negative aspects, resulting in a neutral to slightly negative impression.""
+}"
+4,5,"The review is highly positive with enthusiastic praise for the food, service, and atmosphere. There is only one minor complaint about the price, which is acknowledged as expected for the venue. Sentiment and enthusiasm are both high, and no significant negative issues are raised.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is highly positive with enthusiastic praise for the food, service, and atmosphere. There is only one minor complaint about the price, which is acknowledged as expected for the venue. Sentiment and enthusiasm are both high, and no significant negative issues are raised.""
+}"
+4,5,"The review expresses a very positive sentiment with praise for the decor, friendly staff, excellent food within the reviewer's preferred range, good pricing, and appropriate spice levels. No complaints or negative issues are mentioned, and the enthusiasm is high, especially highlighting it as the best bargain for spice lovers in the area.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with praise for the decor, friendly staff, excellent food within the reviewer's preferred range, good pricing, and appropriate spice levels. No complaints or negative issues are mentioned, and the enthusiasm is high, especially highlighting it as the best bargain for spice lovers in the area.""
+}"
+4,4,"The review expresses a generally positive sentiment with appreciation for the store's organization, friendly staff, good selection, and useful coupons. There are minor complaints about prices being a little high on some items, but these are mitigated by the coupons. Enthusiasm is moderate to high as the reviewer enjoyed browsing and plans to return. Overall, sentiment and enthusiasm are strong with a small number of minor complaints, resulting in a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment with appreciation for the store's organization, friendly staff, good selection, and useful coupons. There are minor complaints about prices being a little high on some items, but these are mitigated by the coupons. Enthusiasm is moderate to high as the reviewer enjoyed browsing and plans to return. Overall, sentiment and enthusiasm are strong with a small number of minor complaints, resulting in a 4-star rating.""
+}"
+5,5,"The review expresses very positive sentiment with enthusiastic praise for the crab salad and iced teas, no complaints mentioned, and a high level of enthusiasm encouraging others to visit.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with enthusiastic praise for the crab salad and iced teas, no complaints mentioned, and a high level of enthusiasm encouraging others to visit.""
+}"
+4,5,"The review expresses a very positive sentiment with enthusiasm rated high (5) due to the enjoyment of the food, fair pricing, and willingness to return. Although there is a minor complaint about the restaurant's interior being 'a little strange' and the large size of specialty rolls making them difficult to eat, these issues are minor and do not detract significantly from the overall positive experience. Sentiment is strong (5), complaints are minimal (1 minor issue), and enthusiasm is high (5), meeting the criteria for a 5-star rating.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with enthusiasm rated high (5) due to the enjoyment of the food, fair pricing, and willingness to return. Although there is a minor complaint about the restaurant's interior being 'a little strange' and the large size of specialty rolls making them difficult to eat, these issues are minor and do not detract significantly from the overall positive experience. Sentiment is strong (5), complaints are minimal (1 minor issue), and enthusiasm is high (5), meeting the criteria for a 5-star rating.""
+}"
+1,1,"The review expresses strong negative sentiment due to the taxi arriving late, getting lost, and causing the user to miss a paid class. There are multiple complaints about poor service, lack of punctuality, and navigation issues. Enthusiasm is very low, reflecting frustration and dissatisfaction.",True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong negative sentiment due to the taxi arriving late, getting lost, and causing the user to miss a paid class. There are multiple complaints about poor service, lack of punctuality, and navigation issues. Enthusiasm is very low, reflecting frustration and dissatisfaction.""
+}"
+1,1,"The review expresses strong negative sentiment due to poor food quality (wrong meat, falling apart wontons, greasy dishes) and disappointment with new ownership compared to previous positive experiences. Multiple complaints are mentioned, and enthusiasm is very low, resulting in a 1-star rating.",True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong negative sentiment due to poor food quality (wrong meat, falling apart wontons, greasy dishes) and disappointment with new ownership compared to previous positive experiences. Multiple complaints are mentioned, and enthusiasm is very low, resulting in a 1-star rating.""
+}"
+3,4,"The reviewer expresses a generally positive sentiment by preferring Waffle House over Denny's and choosing it for breakfast, indicating sentiment and enthusiasm around 4. However, they mention the place is 'okay' and 'not the best,' which counts as a mild complaint. Therefore, the final rating is 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer expresses a generally positive sentiment by preferring Waffle House over Denny's and choosing it for breakfast, indicating sentiment and enthusiasm around 4. However, they mention the place is 'okay' and 'not the best,' which counts as a mild complaint. Therefore, the final rating is 4 stars.""
+}"
+4,4,"The review expresses high enthusiasm and positive sentiment about the atmosphere and experience, with multiple exclamation points and vivid descriptions of the wildlife and setting. The food is described as 'fairly decent' and 'decent,' indicating some mild reservations but no strong complaints. There are no explicit negative issues mentioned, just a subtle suggestion that the food is not outstanding. Overall, sentiment and enthusiasm are high, with minor reservations about food quality, leading to a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses high enthusiasm and positive sentiment about the atmosphere and experience, with multiple exclamation points and vivid descriptions of the wildlife and setting. The food is described as 'fairly decent' and 'decent,' indicating some mild reservations but no strong complaints. There are no explicit negative issues mentioned, just a subtle suggestion that the food is not outstanding. Overall, sentiment and enthusiasm are high, with minor reservations about food quality, leading to a 4-star rating.""
+}"
+4,4,"The review expresses positive sentiment about the food, prices, and staff friendliness, indicating a sentiment score of 4. There is one minor complaint about the place being 'a bit shabby,' but it is balanced by positive remarks and the staff's willingness to fix issues. Enthusiasm is moderate at 3, reflecting steady appreciation without high excitement. Overall, the presence of a minor complaint with good sentiment leads to a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses positive sentiment about the food, prices, and staff friendliness, indicating a sentiment score of 4. There is one minor complaint about the place being 'a bit shabby,' but it is balanced by positive remarks and the staff's willingness to fix issues. Enthusiasm is moderate at 3, reflecting steady appreciation without high excitement. Overall, the presence of a minor complaint with good sentiment leads to a 4-star rating.""
+}"
+4,4,"The overall sentiment is positive with beer rated close to 4, service at 4.5, and food at 3. The reviewer enjoyed the beer education and variety, highlighting unique mixes and good recommendations. Complaints include the pretzel being just a utensil and the burger being unspectacular, indicating some dissatisfaction with the food. Enthusiasm is moderately high due to the excitement about beer mixology and detailed beer notes. Since sentiment and enthusiasm are high but there are minor complaints, the rating is 4 stars.",True,"```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The overall sentiment is positive with beer rated close to 4, service at 4.5, and food at 3. The reviewer enjoyed the beer education and variety, highlighting unique mixes and good recommendations. Complaints include the pretzel being just a utensil and the burger being unspectacular, indicating some dissatisfaction with the food. Enthusiasm is moderately high due to the excitement about beer mixology and detailed beer notes. Since sentiment and enthusiasm are high but there are minor complaints, the rating is 4 stars.""
+}
+```"
+3,3,"The review expresses positive sentiment about the layout and view, showing moderate enthusiasm for supporting the business. However, it mentions two clear complaints: high drink prices and limited well options, which are significant negatives. The overall sentiment is mixed, leading to a neutral rating.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses positive sentiment about the layout and view, showing moderate enthusiasm for supporting the business. However, it mentions two clear complaints: high drink prices and limited well options, which are significant negatives. The overall sentiment is mixed, leading to a neutral rating.""
+}"
+5,4,"The review expresses overall positive sentiment with enthusiasm about the food, atmosphere, and service, but mentions one complaint about the drink being served incorrectly. Sentiment and enthusiasm are high, but the presence of a complaint lowers the rating from 5 to 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses overall positive sentiment with enthusiasm about the food, atmosphere, and service, but mentions one complaint about the drink being served incorrectly. Sentiment and enthusiasm are high, but the presence of a complaint lowers the rating from 5 to 4 stars.""
+}"
+5,5,The review expresses very positive sentiment with no complaints mentioned and high enthusiasm for the product and experience.,True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with no complaints mentioned and high enthusiasm for the product and experience.""
+}"
+5,5,"The review expresses a very positive sentiment with no complaints mentioned. The customer is enthusiastic about the food and service, highlighting excellent service and friendly treatment. Both sentiment and enthusiasm are high, and no negative issues are noted.",True,"```json
+{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with no complaints mentioned. The customer is enthusiastic about the food and service, highlighting excellent service and friendly treatment. Both sentiment and enthusiasm are high, and no negative issues are noted.""
+}
+```"
+1,2,"The review expresses clear disappointment with multiple negative issues: increased price with reduced portion size, lack of assistance from staff, poor tea preparation, and overall dissatisfaction compared to previous visits. Sentiment is low (around 2), complaints are numerous (4 distinct issues), and enthusiasm is very low (1). These factors justify a 2-star rating.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses clear disappointment with multiple negative issues: increased price with reduced portion size, lack of assistance from staff, poor tea preparation, and overall dissatisfaction compared to previous visits. Sentiment is low (around 2), complaints are numerous (4 distinct issues), and enthusiasm is very low (1). These factors justify a 2-star rating.""
+}"
+2,1,"The reviewer expresses clear dissatisfaction due to the store being closed at the stated opening time and no staff present despite the heat, indicating a negative experience. Sentiment score is low (around 1-2), with two complaints (incorrect opening time and no staff present). Enthusiasm is low (1) as the reviewer left without service.",True,"```json
+{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The reviewer expresses clear dissatisfaction due to the store being closed at the stated opening time and no staff present despite the heat, indicating a negative experience. Sentiment score is low (around 1-2), with two complaints (incorrect opening time and no staff present). Enthusiasm is low (1) as the reviewer left without service.""
+}
+```"
+2,2,"The review expresses negative sentiment due to under seasoned food and use of store bought tortillas, with explicit dislike and no plans to return. There are multiple complaints, leading to low enthusiasm and a low sentiment score.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses negative sentiment due to under seasoned food and use of store bought tortillas, with explicit dislike and no plans to return. There are multiple complaints, leading to low enthusiasm and a low sentiment score.""
+}"
+4,4,"The review is overall positive with enthusiasm about the atmosphere, activities, and staff, scoring sentiment and enthusiasm around 4. There are some complaints about the bathroom cleanliness and the food quality, indicating minor negative issues. Since sentiment is high but there are some complaints, a 4-star rating is appropriate.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall positive with enthusiasm about the atmosphere, activities, and staff, scoring sentiment and enthusiasm around 4. There are some complaints about the bathroom cleanliness and the food quality, indicating minor negative issues. Since sentiment is high but there are some complaints, a 4-star rating is appropriate.""
+}"
+3,3,"The review expresses a neutral to slightly negative sentiment, noting the store is standard and lacks upscale features expected at its location. There are two complaints about the store not being a flagship and about traffic and parking issues. Enthusiasm is low to moderate, reflecting some disappointment but not strong negativity.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses a neutral to slightly negative sentiment, noting the store is standard and lacks upscale features expected at its location. There are two complaints about the store not being a flagship and about traffic and parking issues. Enthusiasm is low to moderate, reflecting some disappointment but not strong negativity.""
+}"
+4,4,"The review expresses a positive sentiment about the food, describing it as delicious and affordable, with enthusiasm for the cuisine and experience. However, there is one clear complaint about the cleanliness and condition of the dining room, which detracts from the overall experience. Sentiment and enthusiasm are high, but the negative issue with the dining environment prevents a full 5-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive sentiment about the food, describing it as delicious and affordable, with enthusiasm for the cuisine and experience. However, there is one clear complaint about the cleanliness and condition of the dining room, which detracts from the overall experience. Sentiment and enthusiasm are high, but the negative issue with the dining environment prevents a full 5-star rating.""
+}"
+2,2,"The review expresses clear disappointment with the food quality, citing issues such as misleading branding, lack of soul in signature pizzas, overly salty and soggy salads, and poor gelato quality. Despite acknowledging a cool concept and good crust, the overall sentiment is negative with multiple complaints. Enthusiasm is low, reflecting frustration rather than excitement.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses clear disappointment with the food quality, citing issues such as misleading branding, lack of soul in signature pizzas, overly salty and soggy salads, and poor gelato quality. Despite acknowledging a cool concept and good crust, the overall sentiment is negative with multiple complaints. Enthusiasm is low, reflecting frustration rather than excitement.""
+}"
+5,5,"The review expresses very positive sentiment with enthusiastic language and no complaints mentioned. The reviewer highlights excellent food and a strong desire to return, indicating high enthusiasm and satisfaction.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with enthusiastic language and no complaints mentioned. The reviewer highlights excellent food and a strong desire to return, indicating high enthusiasm and satisfaction.""
+}"
+5,5,"The review expresses very positive sentiment with phrases like 'Favorite Pho', 'Great, tender meat', and 'Friendly staff'. There are no complaints or negative issues mentioned. The enthusiasm level is high, indicated by 'Nom nom' and 'See ya there!'. Therefore, with sentiment and enthusiasm both high and zero complaints, the rating is 5 stars.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with phrases like 'Favorite Pho', 'Great, tender meat', and 'Friendly staff'. There are no complaints or negative issues mentioned. The enthusiasm level is high, indicated by 'Nom nom' and 'See ya there!'. Therefore, with sentiment and enthusiasm both high and zero complaints, the rating is 5 stars.""
+}"
+2,1,"The review expresses a negative sentiment with clear complaints about the dressing tasting artificial and the tomatoes being mushy. Enthusiasm is very low, and there are multiple negative issues mentioned.",True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses a negative sentiment with clear complaints about the dressing tasting artificial and the tomatoes being mushy. Enthusiasm is very low, and there are multiple negative issues mentioned.""
+}"
+4,4,"The overall sentiment is positive (score 4) with enthusiasm level high (4). There is one minor complaint about the fried calamari not being to their taste, but it was not considered bad. The rest of the experience, including food, drinks, atmosphere, and service, was praised. Since there is a complaint but sentiment and enthusiasm are high, the rating is 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The overall sentiment is positive (score 4) with enthusiasm level high (4). There is one minor complaint about the fried calamari not being to their taste, but it was not considered bad. The rest of the experience, including food, drinks, atmosphere, and service, was praised. Since there is a complaint but sentiment and enthusiasm are high, the rating is 4 stars.""
+}"
+3,3,"The reviewer gives a neutral sentiment overall, highlighting one main complaint about slow service due to limited staff during busy times. Despite this, they offer practical solutions and show some positive attitude towards the food and ordering options, resulting in moderate enthusiasm.",True,"```json
+{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The reviewer gives a neutral sentiment overall, highlighting one main complaint about slow service due to limited staff during busy times. Despite this, they offer practical solutions and show some positive attitude towards the food and ordering options, resulting in moderate enthusiasm.""
+}
+```"
+2,1,"The review expresses a strongly negative sentiment about the decline in food and experience due to franchising, with clear disappointment and frustration. There is one major complaint about the quality going downhill, and the enthusiasm level is very low.",True,"```json
+{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses a strongly negative sentiment about the decline in food and experience due to franchising, with clear disappointment and frustration. There is one major complaint about the quality going downhill, and the enthusiasm level is very low.""
+}
+```"
+5,4,"The review expresses a positive sentiment with praise for the food quality, originality, portions, and customer service, showing moderate to high enthusiasm. The only complaint mentioned is the small interior, which is minor and does not significantly detract from the overall positive experience.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive sentiment with praise for the food quality, originality, portions, and customer service, showing moderate to high enthusiasm. The only complaint mentioned is the small interior, which is minor and does not significantly detract from the overall positive experience.""
+}"
+4,5,"The review expresses a very positive sentiment with no complaints mentioned. The reviewer highlights the friendly bartender, cheap prices, fun jukebox, and enjoyable atmosphere including the presence of a popular drag queen. Enthusiasm is high, indicating strong enjoyment and recommendation.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with no complaints mentioned. The reviewer highlights the friendly bartender, cheap prices, fun jukebox, and enjoyable atmosphere including the presence of a popular drag queen. Enthusiasm is high, indicating strong enjoyment and recommendation.""
+}"
+3,3,"The review expresses positive sentiment about the atmosphere and customer service, indicating enthusiasm. However, there is a clear complaint about the NY strip steak not being worth the price and sides being ordered separately. Sentiment is mixed, with both positive and negative points, leading to a neutral overall rating.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses positive sentiment about the atmosphere and customer service, indicating enthusiasm. However, there is a clear complaint about the NY strip steak not being worth the price and sides being ordered separately. Sentiment is mixed, with both positive and negative points, leading to a neutral overall rating.""
+}"
+5,5,"The review expresses a very positive sentiment with no complaints mentioned. The user highlights the ease of the donation process, the community benefits, and praises the staff, indicating high enthusiasm and satisfaction.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with no complaints mentioned. The user highlights the ease of the donation process, the community benefits, and praises the staff, indicating high enthusiasm and satisfaction.""
+}"
+2,2,"The review expresses negative sentiment due to repeated double billing issues, which are significant complaints. The reviewer shows low enthusiasm and only tolerates the place because of convenience, indicating dissatisfaction despite no explicit harsh language.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses negative sentiment due to repeated double billing issues, which are significant complaints. The reviewer shows low enthusiasm and only tolerates the place because of convenience, indicating dissatisfaction despite no explicit harsh language.""
+}"
+5,5,"The review expresses strong positive sentiment with words like 'love' and 'amazing,' no complaints are mentioned, and the enthusiasm level is very high.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiment with words like 'love' and 'amazing,' no complaints are mentioned, and the enthusiasm level is very high.""
+}"
+3,4,"The review expresses an overall positive sentiment with appreciation for the atmosphere, unique salsa bar, and several well-liked dishes such as the Oaxaca Mole taco, calabacitas, and pork taco. However, there is one notable complaint about the carne asada taco being bland and disappointing. Enthusiasm is fairly high as the reviewer plans to return and try more menu items. Given the positive sentiment and enthusiasm but presence of a complaint, a 4-star rating is appropriate.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses an overall positive sentiment with appreciation for the atmosphere, unique salsa bar, and several well-liked dishes such as the Oaxaca Mole taco, calabacitas, and pork taco. However, there is one notable complaint about the carne asada taco being bland and disappointing. Enthusiasm is fairly high as the reviewer plans to return and try more menu items. Given the positive sentiment and enthusiasm but presence of a complaint, a 4-star rating is appropriate.""
+}"
+5,4,"The review is overall very positive with high praise for the Stetson chopped salad and bread pudding, as well as excellent service and drink selection. However, there is one mild complaint about the mushrooms tasting bland when eaten immediately after the bold salad, which slightly lowers enthusiasm. Sentiment and enthusiasm are high, but the presence of this minor issue results in a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall very positive with high praise for the Stetson chopped salad and bread pudding, as well as excellent service and drink selection. However, there is one mild complaint about the mushrooms tasting bland when eaten immediately after the bold salad, which slightly lowers enthusiasm. Sentiment and enthusiasm are high, but the presence of this minor issue results in a 4-star rating.""
+}"
+4,5,"The review expresses strong positive sentiment with words like 'Yum!', 'Delicious', 'wonderful atmosphere', and 'devine' Nutella crepes. There are no complaints mentioned, and the enthusiasm level is high.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiment with words like 'Yum!', 'Delicious', 'wonderful atmosphere', and 'devine' Nutella crepes. There are no complaints mentioned, and the enthusiasm level is high.""
+}"
+4,4,"The review expresses generally positive sentiment with friendly staff and a nice place, but the food is described as 'just good' rather than excellent, indicating some mild reservations. There are no explicit complaints, but enthusiasm is moderate rather than high.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses generally positive sentiment with friendly staff and a nice place, but the food is described as 'just good' rather than excellent, indicating some mild reservations. There are no explicit complaints, but enthusiasm is moderate rather than high.""
+}"
+4,4,"The review expresses an overall positive sentiment with clear enthusiasm for standout dishes like the Pate Chaude and crispy rolls, and appreciation for the restaurant's wide appeal and atmosphere. However, several complaints are noted, including bland curries, basic menu items, and notably slow service causing a long wait time. Sentiment and enthusiasm are high but tempered by these issues, resulting in a 4-star rating rather than 5.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses an overall positive sentiment with clear enthusiasm for standout dishes like the Pate Chaude and crispy rolls, and appreciation for the restaurant's wide appeal and atmosphere. However, several complaints are noted, including bland curries, basic menu items, and notably slow service causing a long wait time. Sentiment and enthusiasm are high but tempered by these issues, resulting in a 4-star rating rather than 5.""
+}"
+4,4,"The review expresses a generally positive sentiment with enthusiasm for the coffee shop's atmosphere, staff, and coffee quality. There are no explicit complaints, but the reviewer hints at not having tried the pastries yet, which could be seen as a minor reservation. Sentiment and enthusiasm are high, but the slight hesitation about pastries and the 'pretty good' coffee phrasing prevent a full 5-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment with enthusiasm for the coffee shop's atmosphere, staff, and coffee quality. There are no explicit complaints, but the reviewer hints at not having tried the pastries yet, which could be seen as a minor reservation. Sentiment and enthusiasm are high, but the slight hesitation about pastries and the 'pretty good' coffee phrasing prevent a full 5-star rating.""
+}"
+4,4,"The review acknowledges that the steak is not the best and rates it as average, which is a mild complaint. However, the overall sentiment is positive, emphasizing the unique, classic, and cool atmosphere of Durant's. Enthusiasm is high for the ambiance and experience, though the food itself is described as just pretty good or alright. The presence of a minor complaint about the steak quality lowers the rating from 5 to 4 stars.",True,"```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review acknowledges that the steak is not the best and rates it as average, which is a mild complaint. However, the overall sentiment is positive, emphasizing the unique, classic, and cool atmosphere of Durant's. Enthusiasm is high for the ambiance and experience, though the food itself is described as just pretty good or alright. The presence of a minor complaint about the steak quality lowers the rating from 5 to 4 stars.""
+}
+```"
+5,4,"The review expresses a generally positive sentiment with enthusiasm about the dog park's features and atmosphere. However, it mentions one complaint regarding some misbehaving dogs and inattentive owners. Sentiment and enthusiasm are high, but the presence of this complaint lowers the rating to 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment with enthusiasm about the dog park's features and atmosphere. However, it mentions one complaint regarding some misbehaving dogs and inattentive owners. Sentiment and enthusiasm are high, but the presence of this complaint lowers the rating to 4 stars.""
+}"
+5,5,"The review expresses very positive sentiment with no complaints mentioned. The reviewer shows high enthusiasm, calling it the best barber shop in 38 years and praising the barber's attention to detail. Sentiment and enthusiasm are both high, and no negative issues are noted.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with no complaints mentioned. The reviewer shows high enthusiasm, calling it the best barber shop in 38 years and praising the barber's attention to detail. Sentiment and enthusiasm are both high, and no negative issues are noted.""
+}"
+4,5,"The review expresses positive sentiment about the car wash service being decent and reasonably priced. The customer appreciated the non-pushy approach regarding extras, noticed lower gas prices, and valued the senior discount. There are no complaints mentioned, and the enthusiasm level is moderately high due to the positive tone and multiple benefits highlighted.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses positive sentiment about the car wash service being decent and reasonably priced. The customer appreciated the non-pushy approach regarding extras, noticed lower gas prices, and valued the senior discount. There are no complaints mentioned, and the enthusiasm level is moderately high due to the positive tone and multiple benefits highlighted.""
+}"
+4,4,"The review expresses positive sentiment about the fresh homemade noodles and evokes a nostalgic comparison to San Francisco Chinatown food, indicating enthusiasm. However, the comment is brief and lacks explicit praise or strong enthusiasm, and no complaints are mentioned.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses positive sentiment about the fresh homemade noodles and evokes a nostalgic comparison to San Francisco Chinatown food, indicating enthusiasm. However, the comment is brief and lacks explicit praise or strong enthusiasm, and no complaints are mentioned.""
+}"
+3,4,"The review expresses a generally positive sentiment with appreciation for unique product availability and good pricing, indicating sentiment and enthusiasm around 4. There is a mild negative observation about the store's focus being more on design/decorating and small appliances, which can be seen as a minor complaint. Overall, the tone is positive but acknowledges some limitations.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment with appreciation for unique product availability and good pricing, indicating sentiment and enthusiasm around 4. There is a mild negative observation about the store's focus being more on design/decorating and small appliances, which can be seen as a minor complaint. Overall, the tone is positive but acknowledges some limitations.""
+}"
+4,5,"The review expresses a positive sentiment with enjoyment of the wine bar, food, and cozy atmosphere. No complaints or negative issues are mentioned, and the enthusiasm level is high.",True,"```json
+{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a positive sentiment with enjoyment of the wine bar, food, and cozy atmosphere. No complaints or negative issues are mentioned, and the enthusiasm level is high.""
+}
+```"
+3,3,"The review expresses a generally average sentiment with some positive notes about the omelet and ingredient choices, but highlights multiple complaints including bland breakfast potatoes, uninspiring ingredients, and slow service. Enthusiasm is low to moderate, reflecting a lukewarm overall impression.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses a generally average sentiment with some positive notes about the omelet and ingredient choices, but highlights multiple complaints including bland breakfast potatoes, uninspiring ingredients, and slow service. Enthusiasm is low to moderate, reflecting a lukewarm overall impression.""
+}"
+3,1,"The review title 'Glorified Pei Wei' conveys a negative sentiment implying disappointment or dissatisfaction. There is at least one complaint about the product being overrated. Enthusiasm is very low, indicating a poor overall impression.",True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review title 'Glorified Pei Wei' conveys a negative sentiment implying disappointment or dissatisfaction. There is at least one complaint about the product being overrated. Enthusiasm is very low, indicating a poor overall impression.""
+}"
+5,5,"The review is overwhelmingly positive with no complaints mentioned. The reviewer highlights pleasant surprises, good food quality, attentive staff, a clean and fresh restroom, and a welcoming atmosphere. Enthusiasm is high as they express intent to return and recommend the restaurant to others.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is overwhelmingly positive with no complaints mentioned. The reviewer highlights pleasant surprises, good food quality, attentive staff, a clean and fresh restroom, and a welcoming atmosphere. Enthusiasm is high as they express intent to return and recommend the restaurant to others.""
+}"
+4,4,"The review expresses generally positive sentiment about the coffee, ambiance, and staff, highlighting charm and good service. There is one minor negative aspect implied by 'pretty good' rather than excellent coffee, indicating a slight reservation. Enthusiasm is moderately high due to appreciation of staff and atmosphere. Overall, positive with a small reservation leads to 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses generally positive sentiment about the coffee, ambiance, and staff, highlighting charm and good service. There is one minor negative aspect implied by 'pretty good' rather than excellent coffee, indicating a slight reservation. Enthusiasm is moderately high due to appreciation of staff and atmosphere. Overall, positive with a small reservation leads to 4 stars.""
+}"
+5,5,"The review expresses very positive sentiment with no complaints mentioned. Enthusiasm is high, praising the food as amazing, authentic, and good value, leading to a top rating.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with no complaints mentioned. Enthusiasm is high, praising the food as amazing, authentic, and good value, leading to a top rating.""
+}"
+4,4,"The review is overall positive with a sentiment score of 4, highlighting complimentary breakfast, free WIFI, large rooms, and family-friendly accommodations. There is one complaint about the small and unimpressive pool, which lowers enthusiasm slightly to 4. Since sentiment and enthusiasm are high but there is a minor complaint, the rating is 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall positive with a sentiment score of 4, highlighting complimentary breakfast, free WIFI, large rooms, and family-friendly accommodations. There is one complaint about the small and unimpressive pool, which lowers enthusiasm slightly to 4. Since sentiment and enthusiasm are high but there is a minor complaint, the rating is 4 stars.""
+}"
+4,5,"The review expresses a positive sentiment with no complaints mentioned. The customer highlights cleanliness, good stock, and short wait times, indicating high enthusiasm and satisfaction.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a positive sentiment with no complaints mentioned. The customer highlights cleanliness, good stock, and short wait times, indicating high enthusiasm and satisfaction.""
+}"
+4,4,"The review expresses generally positive sentiment with praise for several dishes and the overall experience, including the setting and service. However, there is one clear complaint about the Gyro being dry, burnt, and having an off taste, which was addressed by the staff. Enthusiasm is moderately high due to the recommendation and positive descriptions, but the presence of a complaint prevents a perfect rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses generally positive sentiment with praise for several dishes and the overall experience, including the setting and service. However, there is one clear complaint about the Gyro being dry, burnt, and having an off taste, which was addressed by the staff. Enthusiasm is moderately high due to the recommendation and positive descriptions, but the presence of a complaint prevents a perfect rating.""
+}"
+2,2,"The reviewer acknowledges the good flavor selection and taste, but strongly complains about the high price ($6 per scoop), calling it overpriced and not worth the money. Sentiment is low due to price dissatisfaction, with one clear complaint about cost. Enthusiasm is low despite the taste being decent.",True,"```json
+{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The reviewer acknowledges the good flavor selection and taste, but strongly complains about the high price ($6 per scoop), calling it overpriced and not worth the money. Sentiment is low due to price dissatisfaction, with one clear complaint about cost. Enthusiasm is low despite the taste being decent.""
+}
+```"
+4,4,"The review expresses a generally positive sentiment with appreciation for the atmosphere, creative menu, and good service. There are minor complaints about the cheese selection and loud music, but these do not significantly detract from the overall pleasant experience. Sentiment and enthusiasm are high, but the presence of some complaints results in a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment with appreciation for the atmosphere, creative menu, and good service. There are minor complaints about the cheese selection and loud music, but these do not significantly detract from the overall pleasant experience. Sentiment and enthusiasm are high, but the presence of some complaints results in a 4-star rating.""
+}"
+5,5,"The review expresses very positive sentiment with high enthusiasm about the venue being the new hub for music in Phoenix. Although it mentions a minor concern about future wear and tear, this is not presented as a significant complaint. Overall, the tone is highly enthusiastic and appreciative, with no real negative issues impacting the experience.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with high enthusiasm about the venue being the new hub for music in Phoenix. Although it mentions a minor concern about future wear and tear, this is not presented as a significant complaint. Overall, the tone is highly enthusiastic and appreciative, with no real negative issues impacting the experience.""
+}"
+4,5,"The review expresses a very positive sentiment with praise for the food, wine, coffee, live music, and art demonstrations. No complaints or negative issues are mentioned. The enthusiasm level is high, highlighting unique experiences and recommending specific items like fruit smoothies.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with praise for the food, wine, coffee, live music, and art demonstrations. No complaints or negative issues are mentioned. The enthusiasm level is high, highlighting unique experiences and recommending specific items like fruit smoothies.""
+}"
+4,3,"The review expresses mixed feelings: the reviewer enjoyed some dishes (notably the lamb kabob and ravioli) and appreciated certain flavors and textures, showing moderate enthusiasm. However, there are multiple complaints about the mom's lack of enjoyment, the escargots being too crunchy and the butter and parsley sauce falling flat. Sentiment is neutral to slightly positive but tempered by these issues, resulting in a moderate overall rating.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses mixed feelings: the reviewer enjoyed some dishes (notably the lamb kabob and ravioli) and appreciated certain flavors and textures, showing moderate enthusiasm. However, there are multiple complaints about the mom's lack of enjoyment, the escargots being too crunchy and the butter and parsley sauce falling flat. Sentiment is neutral to slightly positive but tempered by these issues, resulting in a moderate overall rating.""
+}"
+2,2,"The review expresses strong negative sentiment due to consistently rude service from a specific bartender over the past 6 months, leading to multiple instances of the customer walking out without ordering. Despite the food being good, the repeated poor service and feeling of betrayal significantly impact the overall experience. Sentiment is low (2), complaints are multiple (rude bartender, ignoring customer, long delays), and enthusiasm is low (2) given the disappointment from a previously loyal customer.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses strong negative sentiment due to consistently rude service from a specific bartender over the past 6 months, leading to multiple instances of the customer walking out without ordering. Despite the food being good, the repeated poor service and feeling of betrayal significantly impact the overall experience. Sentiment is low (2), complaints are multiple (rude bartender, ignoring customer, long delays), and enthusiasm is low (2) given the disappointment from a previously loyal customer.""
+}"
+3,4,"The review expresses a generally positive sentiment with praise for knowledgeable, friendly staff and good prices on anime sets. There are two main complaints: the anime may be bootlegged and the store no longer sells DnD books or dice sets, which the reviewer misses. Enthusiasm is fairly high due to repeated visits and liking this location best among others. Because sentiment and enthusiasm are both high but there are some notable complaints, the rating is 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment with praise for knowledgeable, friendly staff and good prices on anime sets. There are two main complaints: the anime may be bootlegged and the store no longer sells DnD books or dice sets, which the reviewer misses. Enthusiasm is fairly high due to repeated visits and liking this location best among others. Because sentiment and enthusiasm are both high but there are some notable complaints, the rating is 4 stars.""
+}"
+1,1,"The review expresses strong negative sentiment with multiple complaints including slow indifferent service, mediocre food, and poor wine quality. The tone is highly critical and sarcastic, indicating very low enthusiasm. Given the severity and number of complaints, the rating is 1 star.",True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong negative sentiment with multiple complaints including slow indifferent service, mediocre food, and poor wine quality. The tone is highly critical and sarcastic, indicating very low enthusiasm. Given the severity and number of complaints, the rating is 1 star.""
+}"
+2,3,"The reviewer expresses moderate satisfaction with the food, calling it good but not great, indicating a neutral to slightly positive sentiment. However, there is a clear complaint about the lack of an itemized receipt and unexpected delivery charge without explanation, which caused dissatisfaction. Enthusiasm is moderate, shown by initial excitement but tempered by the negative experience. Overall, sentiment is around neutral with one significant complaint, leading to a 3-star rating.",True,"```json
+{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The reviewer expresses moderate satisfaction with the food, calling it good but not great, indicating a neutral to slightly positive sentiment. However, there is a clear complaint about the lack of an itemized receipt and unexpected delivery charge without explanation, which caused dissatisfaction. Enthusiasm is moderate, shown by initial excitement but tempered by the negative experience. Overall, sentiment is around neutral with one significant complaint, leading to a 3-star rating.""
+}
+```"
+5,5,"The review expresses strong positive sentiment with praise for the food quality, menu variety, nightly specials, and great service. There are no complaints mentioned, and the enthusiasm level is high, indicating a very favorable experience.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiment with praise for the food quality, menu variety, nightly specials, and great service. There are no complaints mentioned, and the enthusiasm level is high, indicating a very favorable experience.""
+}"
+5,5,"The review expresses strong positive sentiment with enthusiastic praise for the food, service, and atmosphere. No complaints or negative issues are mentioned. The reviewer shows high enthusiasm and appreciation for the experience.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiment with enthusiastic praise for the food, service, and atmosphere. No complaints or negative issues are mentioned. The reviewer shows high enthusiasm and appreciation for the experience.""
+}"
+4,4,"The review is overall positive with a sentiment score around 4 due to praise for the food and specific dishes. There is one minor complaint about the frozen butter and a note about the lack of ranch dressing, indicating some negative issues but not severe. Enthusiasm is high at about 4, shown by strong recommendations and positive descriptions. Given the positive sentiment and enthusiasm but presence of some complaints, a 4-star rating is appropriate.",True,"```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall positive with a sentiment score around 4 due to praise for the food and specific dishes. There is one minor complaint about the frozen butter and a note about the lack of ranch dressing, indicating some negative issues but not severe. Enthusiasm is high at about 4, shown by strong recommendations and positive descriptions. Given the positive sentiment and enthusiasm but presence of some complaints, a 4-star rating is appropriate.""
+}
+```"
+4,5,"The review expresses strong positive sentiment about the food and decor with no complaints mentioned, indicating high enthusiasm and satisfaction.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiment about the food and decor with no complaints mentioned, indicating high enthusiasm and satisfaction.""
+}"
+4,5,"The review expresses a very positive sentiment, highlighting the uniqueness of the product selection and convenience of online ordering with in-store pickup. There are no complaints or negative issues mentioned. The reviewer shows enthusiasm about the classes offered and plans to sign up, indicating high enthusiasm.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment, highlighting the uniqueness of the product selection and convenience of online ordering with in-store pickup. There are no complaints or negative issues mentioned. The reviewer shows enthusiasm about the classes offered and plans to sign up, indicating high enthusiasm.""
+}"
+3,4,"The review is overall positive with praise for the beef gyro, portions, and falafel, indicating a high sentiment score and enthusiasm. However, there are two minor complaints: the small hummus portion and inconsistent bartender friendliness. These complaints prevent a perfect rating but do not heavily impact the overall positive experience.",True,"```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall positive with praise for the beef gyro, portions, and falafel, indicating a high sentiment score and enthusiasm. However, there are two minor complaints: the small hummus portion and inconsistent bartender friendliness. These complaints prevent a perfect rating but do not heavily impact the overall positive experience.""
+}
+```"
+5,5,"The review is highly positive with no complaints mentioned. The reviewer expresses strong enthusiasm for the sushi place, highlighting favorite dishes and great value, indicating both high sentiment and enthusiasm.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is highly positive with no complaints mentioned. The reviewer expresses strong enthusiasm for the sushi place, highlighting favorite dishes and great value, indicating both high sentiment and enthusiasm.""
+}"
+4,5,"The review expresses strong positive sentiment about the pizzeria, praising its authenticity, friendly staff, good selection, and convenient location. Although it mentions other places negatively, it does not complain about this pizzeria itself. Enthusiasm is high, and no direct complaints about the establishment are present.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiment about the pizzeria, praising its authenticity, friendly staff, good selection, and convenient location. Although it mentions other places negatively, it does not complain about this pizzeria itself. Enthusiasm is high, and no direct complaints about the establishment are present.""
+}"
+3,3,"The review expresses mixed feelings with a sentiment score around 3 due to dissatisfaction with the club's unclear identity, mediocre drinks and crowd, but some positive notes on layout and friendly bouncers. There are about 3 complaints (unclear theme, meh drinks, meh crowd). Enthusiasm is moderate at 3, as the reviewer is willing to give the place another chance. Overall, the balanced positive and negative aspects lead to a neutral rating.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses mixed feelings with a sentiment score around 3 due to dissatisfaction with the club's unclear identity, mediocre drinks and crowd, but some positive notes on layout and friendly bouncers. There are about 3 complaints (unclear theme, meh drinks, meh crowd). Enthusiasm is moderate at 3, as the reviewer is willing to give the place another chance. Overall, the balanced positive and negative aspects lead to a neutral rating.""
+}"
+1,2,"The review expresses a predominantly negative sentiment (score ~2) with multiple complaints including poor food quality, bad service, high prices, and an unappetizing atmosphere. Although the reviewer tries to stay positive and appreciates the location and friendliness of staff, their enthusiasm is low (~2) and they clearly do not recommend the place. The presence of several significant complaints and low enthusiasm results in a 2-star rating.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses a predominantly negative sentiment (score ~2) with multiple complaints including poor food quality, bad service, high prices, and an unappetizing atmosphere. Although the reviewer tries to stay positive and appreciates the location and friendliness of staff, their enthusiasm is low (~2) and they clearly do not recommend the place. The presence of several significant complaints and low enthusiasm results in a 2-star rating.""
+}"
+5,5,"The review expresses very strong positive sentiment and high enthusiasm with phrases like 'I LOVE love LOVE' and 'service is always friendly, perky, and full of sunshine.' There are no complaints mentioned, only a minor disappointment about limited store availability, which does not detract from the overall positive tone.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very strong positive sentiment and high enthusiasm with phrases like 'I LOVE love LOVE' and 'service is always friendly, perky, and full of sunshine.' There are no complaints mentioned, only a minor disappointment about limited store availability, which does not detract from the overall positive tone.""
+}"
+3,4,"The review expresses a positive sentiment about the taste, price, portion size, and service speed, indicating high enthusiasm. However, there is one minor complaint about the lack of vegetables in the dish. Overall, sentiment and enthusiasm are high with a single mild negative point, leading to a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive sentiment about the taste, price, portion size, and service speed, indicating high enthusiasm. However, there is one minor complaint about the lack of vegetables in the dish. Overall, sentiment and enthusiasm are high with a single mild negative point, leading to a 4-star rating.""
+}"
+1,1,"The review expresses strong negative sentiment with multiple complaints including long wait times, unprofessional staff, and poor food quality. Enthusiasm is very low, indicating a highly dissatisfied experience.",True,"```json
+{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong negative sentiment with multiple complaints including long wait times, unprofessional staff, and poor food quality. Enthusiasm is very low, indicating a highly dissatisfied experience.""
+}
+```"
+5,5,"The review expresses very positive sentiment with words like 'amazing,' 'fast,' 'clean,' 'fresh,' and 'friendly staff.' There are no complaints mentioned, and the enthusiasm is high, highlighting favorites and overall quality as some of the best.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with words like 'amazing,' 'fast,' 'clean,' 'fresh,' and 'friendly staff.' There are no complaints mentioned, and the enthusiasm is high, highlighting favorites and overall quality as some of the best.""
+}"
+4,4,"The review is overall positive with enthusiasm about the fun atmosphere, good prices, variety of sushi, and excellent staff. The only complaint is that the sushi lacked enough spice, which is a minor issue. Sentiment and enthusiasm are high, but the presence of one complaint reduces the rating from 5 to 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall positive with enthusiasm about the fun atmosphere, good prices, variety of sushi, and excellent staff. The only complaint is that the sushi lacked enough spice, which is a minor issue. Sentiment and enthusiasm are high, but the presence of one complaint reduces the rating from 5 to 4 stars.""
+}"
+4,4,"The review expresses overall positive sentiment with satisfaction about cleanliness, speedy service, and pleasant seating space. However, the reviewer explicitly states a 4-star rating compared to other Chipotle locations, implying some minor reservations. There are no direct complaints mentioned, but the rating is not a full 5 stars, indicating some unspoken or relative shortcomings. Enthusiasm is moderately high but not maximal.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses overall positive sentiment with satisfaction about cleanliness, speedy service, and pleasant seating space. However, the reviewer explicitly states a 4-star rating compared to other Chipotle locations, implying some minor reservations. There are no direct complaints mentioned, but the rating is not a full 5 stars, indicating some unspoken or relative shortcomings. Enthusiasm is moderately high but not maximal.""
+}"
+4,5,"The review is highly positive with no complaints mentioned. The sentiment and enthusiasm are both high, praising the pricing and crowd levels, indicating a strong recommendation.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is highly positive with no complaints mentioned. The sentiment and enthusiasm are both high, praising the pricing and crowd levels, indicating a strong recommendation.""
+}"
+4,4,"The review expresses generally positive sentiment about the food quality, drink options, and overall experience, with enthusiasm evident in the descriptions. However, there is a minor complaint about inconsistent service, which prevents a perfect rating. Sentiment and enthusiasm are high, but the noted service issue results in a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses generally positive sentiment about the food quality, drink options, and overall experience, with enthusiasm evident in the descriptions. However, there is a minor complaint about inconsistent service, which prevents a perfect rating. Sentiment and enthusiasm are high, but the noted service issue results in a 4-star rating.""
+}"
+4,4,"The review expresses an overall positive sentiment about the airport's cleanliness, shopping, and food options, as well as the rental car area. However, it mentions three specific complaints: the long walk to the gates, outdated security screening machines causing bag issues, and the lengthy shuttle ride to the rental car area. Despite these negatives, the tone remains generally positive and moderately enthusiastic.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses an overall positive sentiment about the airport's cleanliness, shopping, and food options, as well as the rental car area. However, it mentions three specific complaints: the long walk to the gates, outdated security screening machines causing bag issues, and the lengthy shuttle ride to the rental car area. Despite these negatives, the tone remains generally positive and moderately enthusiastic.""
+}"
+4,4,"The review is overall very positive with enthusiasm about the cupcakes, the helpful staff, and the enjoyable experience. The sentiment is high (around 4.5) with vivid, happy descriptions and excitement. However, there is one clear complaint about the limited drink options and the store's early closing time, which slightly lowers the rating from 5 to 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall very positive with enthusiasm about the cupcakes, the helpful staff, and the enjoyable experience. The sentiment is high (around 4.5) with vivid, happy descriptions and excitement. However, there is one clear complaint about the limited drink options and the store's early closing time, which slightly lowers the rating from 5 to 4 stars.""
+}"
+5,5,"The review expresses strong positive sentiment about the theater's unique film offerings and Dan Harkins' dedication. There are no complaints mentioned, and the enthusiasm level is high, appreciating the commitment to keeping the theater open despite financial challenges.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiment about the theater's unique film offerings and Dan Harkins' dedication. There are no complaints mentioned, and the enthusiasm level is high, appreciating the commitment to keeping the theater open despite financial challenges.""
+}"
+4,5,"The review is highly positive with a sentiment score of 5, highlighting fresh and tasty food, a fun atmosphere, and good value. There is one minor complaint about the wait time (10-15 minutes), but it is framed positively as a sign of fresh preparation, so complaints count is 0. Enthusiasm is high at 5, with expressions like 'exceeded my expectations,' 'outstanding,' and 'Muy delicious!' Therefore, the final rating is 5 stars.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is highly positive with a sentiment score of 5, highlighting fresh and tasty food, a fun atmosphere, and good value. There is one minor complaint about the wait time (10-15 minutes), but it is framed positively as a sign of fresh preparation, so complaints count is 0. Enthusiasm is high at 5, with expressions like 'exceeded my expectations,' 'outstanding,' and 'Muy delicious!' Therefore, the final rating is 5 stars.""
+}"
+3,3,"The review contains mixed sentiments: service is variable, some food items are criticized (pancakes not good, burger taste issue), but the overall experience is described as fun and the chicken strips are acceptable. There are multiple complaints but also positive remarks, resulting in a neutral sentiment and moderate enthusiasm.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review contains mixed sentiments: service is variable, some food items are criticized (pancakes not good, burger taste issue), but the overall experience is described as fun and the chicken strips are acceptable. There are multiple complaints but also positive remarks, resulting in a neutral sentiment and moderate enthusiasm.""
+}"
+4,4,"The review expresses a positive sentiment overall, praising the upgraded Irish pub atmosphere, beer selection, and food quality, indicating enthusiasm level 4. The only complaint is about the music on Thursday nights and a suggestion for a DJ to improve the experience, which is a minor issue. Sentiment score is around 4, with one mild complaint, leading to a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive sentiment overall, praising the upgraded Irish pub atmosphere, beer selection, and food quality, indicating enthusiasm level 4. The only complaint is about the music on Thursday nights and a suggestion for a DJ to improve the experience, which is a minor issue. Sentiment score is around 4, with one mild complaint, leading to a 4-star rating.""
+}"
+3,4,"The review expresses generally positive sentiment about the staff and availability of machines, indicating good overall experience. However, there are two minor complaints about the AC temperature and limited ESPN on TVs, which lowers enthusiasm slightly but does not significantly detract from the positive tone.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses generally positive sentiment about the staff and availability of machines, indicating good overall experience. However, there are two minor complaints about the AC temperature and limited ESPN on TVs, which lowers enthusiasm slightly but does not significantly detract from the positive tone.""
+}"
+4,4,"The review expresses a positive sentiment with enjoyable experiences, good food, and reasonable prices. There are no explicit complaints, but the reviewer mentions wanting to try more dishes before rating higher, indicating minor reservation. Enthusiasm is moderately high due to memorable experiences and appreciation of atmosphere and value.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive sentiment with enjoyable experiences, good food, and reasonable prices. There are no explicit complaints, but the reviewer mentions wanting to try more dishes before rating higher, indicating minor reservation. Enthusiasm is moderately high due to memorable experiences and appreciation of atmosphere and value.""
+}"
+5,5,"The review is highly positive with a sentiment score of 5, no complaints mentioned, and a high enthusiasm level of 5. The customer is very pleased with the service, noting the pet's enjoyment and improved appearance, and plans to return.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is highly positive with a sentiment score of 5, no complaints mentioned, and a high enthusiasm level of 5. The customer is very pleased with the service, noting the pet's enjoyment and improved appearance, and plans to return.""
+}"
+5,4,"The review is overall very positive with praise for food, service, and atmosphere, reflecting a high sentiment score and enthusiasm level. However, there is one minor complaint about the butter being a hard stick, which prevents a perfect 5-star rating.",True,"```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall very positive with praise for food, service, and atmosphere, reflecting a high sentiment score and enthusiasm level. However, there is one minor complaint about the butter being a hard stick, which prevents a perfect 5-star rating.""
+}
+```"
+4,4,"Overall positive sentiment with good brunch and decent dinner; minor complaint about mandala masala flavor and uninterested service. Enthusiasm is moderate to high, but presence of some complaints lowers rating from 5 to 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""Overall positive sentiment with good brunch and decent dinner; minor complaint about mandala masala flavor and uninterested service. Enthusiasm is moderate to high, but presence of some complaints lowers rating from 5 to 4 stars.""
+}"
+3,4,"The review expresses a generally positive sentiment about the golf courses, highlighting their affordability, local charm, and scenic views. There are minor complaints such as the front nine feeling like 'mini-golfing' and the course not being a destination spot, but these are framed more as neutral observations than strong negatives. Enthusiasm is moderate to high, appreciating the quick play and clubhouse food. Overall, positive with some minor issues, fitting a 4-star rating.",True,"```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment about the golf courses, highlighting their affordability, local charm, and scenic views. There are minor complaints such as the front nine feeling like 'mini-golfing' and the course not being a destination spot, but these are framed more as neutral observations than strong negatives. Enthusiasm is moderate to high, appreciating the quick play and clubhouse food. Overall, positive with some minor issues, fitting a 4-star rating.""
+}
+```"
+4,4,"The review is overall very positive with enthusiastic praise for the food's flavor and authenticity, reflected in a high sentiment score around 4.5 and high enthusiasm (5). There are two minor complaints regarding the lighting being too bright and the prepackaged butter and lack of freshly ground Parmesan, resulting in a complaint count of 2. Since sentiment and enthusiasm are high but some complaints exist, the final rating is 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall very positive with enthusiastic praise for the food's flavor and authenticity, reflected in a high sentiment score around 4.5 and high enthusiasm (5). There are two minor complaints regarding the lighting being too bright and the prepackaged butter and lack of freshly ground Parmesan, resulting in a complaint count of 2. Since sentiment and enthusiasm are high but some complaints exist, the final rating is 4 stars.""
+}"
+4,5,"The review expresses a very positive sentiment with enthusiasm about the design, service, and food quality. Although there is a minor mention of 'working out some kinks,' it is framed optimistically with expectation of improvement and continued patronage. Sentiment and enthusiasm are both high, and complaints are minimal and not severe.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with enthusiasm about the design, service, and food quality. Although there is a minor mention of 'working out some kinks,' it is framed optimistically with expectation of improvement and continued patronage. Sentiment and enthusiasm are both high, and complaints are minimal and not severe.""
+}"
+1,2,"The review expresses predominantly negative sentiment with multiple complaints including high prices, distracting animatronics, and mediocre food and drinks. Enthusiasm is low, and the reviewer only sees limited appeal for families with children. Overall, the tone is dissatisfied with some mild acknowledgment of family enjoyment.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses predominantly negative sentiment with multiple complaints including high prices, distracting animatronics, and mediocre food and drinks. Enthusiasm is low, and the reviewer only sees limited appeal for families with children. Overall, the tone is dissatisfied with some mild acknowledgment of family enjoyment.""
+}"
+5,5,"The review is highly positive with enthusiastic language and no complaints mentioned. The sentiment score is 5 due to consistent praise for food quality, specials, and atmosphere. Enthusiasm is also rated 5 given the excitement expressed throughout. No negative issues or complaints were noted.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is highly positive with enthusiastic language and no complaints mentioned. The sentiment score is 5 due to consistent praise for food quality, specials, and atmosphere. Enthusiasm is also rated 5 given the excitement expressed throughout. No negative issues or complaints were noted.""
+}"
+4,4,"The review expresses generally positive sentiment with appreciation for the atmosphere, service, beer selection, and value, reflected in high individual ratings. However, there is a notable complaint about the food not fully living up to the menu's hype, reducing enthusiasm slightly after the first visit. Sentiment is around 4, enthusiasm is moderate to high (around 4), and there is one mild complaint about food quality, leading to a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses generally positive sentiment with appreciation for the atmosphere, service, beer selection, and value, reflected in high individual ratings. However, there is a notable complaint about the food not fully living up to the menu's hype, reducing enthusiasm slightly after the first visit. Sentiment is around 4, enthusiasm is moderate to high (around 4), and there is one mild complaint about food quality, leading to a 4-star rating.""
+}"
+4,4,"The review expresses a generally positive sentiment with praise for the ravioli, miso soup, and overall deliciousness. There is a minor complaint about the wine being just 'ok' and a suggestion to try elixirs instead, indicating some dissatisfaction but not severe. Enthusiasm is moderately high as the reviewer returned after six months and appreciates the place. Therefore, sentiment and enthusiasm are around 4 with one minor complaint, resulting in a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment with praise for the ravioli, miso soup, and overall deliciousness. There is a minor complaint about the wine being just 'ok' and a suggestion to try elixirs instead, indicating some dissatisfaction but not severe. Enthusiasm is moderately high as the reviewer returned after six months and appreciates the place. Therefore, sentiment and enthusiasm are around 4 with one minor complaint, resulting in a 4-star rating.""
+}"
+3,3,"The review expresses a neutral to slightly negative sentiment, noting the food is just okay and better options exist. There are multiple complaints about the value and reputation, but the restaurant is clean and well furnished. Overall enthusiasm is low.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses a neutral to slightly negative sentiment, noting the food is just okay and better options exist. There are multiple complaints about the value and reputation, but the restaurant is clean and well furnished. Overall enthusiasm is low.""
+}"
+5,5,"The review expresses very positive sentiment with enthusiastic language about the food, drinks, and service. No complaints or negative issues are mentioned, and the level of enthusiasm is high.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with enthusiastic language about the food, drinks, and service. No complaints or negative issues are mentioned, and the level of enthusiasm is high.""
+}"
+5,5,"The review expresses very positive sentiment with praise for service, flavorful food, and portion sizes. No complaints are mentioned, and the enthusiasm level is high, recommending specific dishes.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with praise for service, flavorful food, and portion sizes. No complaints are mentioned, and the enthusiasm level is high, recommending specific dishes.""
+}"
+4,4,"The review expresses an overall positive sentiment (score 4) with appreciation for the ambiance, art, and neighborhood setting. There are some mild complaints about the menu being a bit pricey and changes in clientele and interior, indicating some negative issues (complaints = 2). Enthusiasm is moderately high (4) as the reviewer enjoys the place and recommends it as a starting point for a walking tour. Given the positive sentiment with some complaints, a 4-star rating is appropriate.",True,"```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses an overall positive sentiment (score 4) with appreciation for the ambiance, art, and neighborhood setting. There are some mild complaints about the menu being a bit pricey and changes in clientele and interior, indicating some negative issues (complaints = 2). Enthusiasm is moderately high (4) as the reviewer enjoys the place and recommends it as a starting point for a walking tour. Given the positive sentiment with some complaints, a 4-star rating is appropriate.""
+}
+```"
+4,4,"The review is overall very positive with enthusiasm for the food and service, highlighting favorites like Pad Thai and chow mein. There is one minor complaint about the sweet and sour pork, but it does not significantly detract from the overall positive sentiment and enjoyment.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall very positive with enthusiasm for the food and service, highlighting favorites like Pad Thai and chow mein. There is one minor complaint about the sweet and sour pork, but it does not significantly detract from the overall positive sentiment and enjoyment.""
+}"
+3,3,"The review expresses generally positive sentiments about the food and service, highlighting the appetizer platter and fresh lemonade as very good and praising attentive service. However, the reviewer explicitly states a 3-star rating and does not mention any specific complaints, indicating moderate enthusiasm and a neutral overall impression.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses generally positive sentiments about the food and service, highlighting the appetizer platter and fresh lemonade as very good and praising attentive service. However, the reviewer explicitly states a 3-star rating and does not mention any specific complaints, indicating moderate enthusiasm and a neutral overall impression.""
+}"
+4,5,"The review expresses a highly positive sentiment with praise for the crust, mozzarella, and toppings, reflecting strong enthusiasm. There are no complaints or negative issues mentioned, and the reviewer, a self-described pizza snob, clearly appreciates the quality, resulting in a top rating.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a highly positive sentiment with praise for the crust, mozzarella, and toppings, reflecting strong enthusiasm. There are no complaints or negative issues mentioned, and the reviewer, a self-described pizza snob, clearly appreciates the quality, resulting in a top rating.""
+}"
+5,5,"The review expresses a positive sentiment overall, highlighting unique and fascinating aspects of the garden that changed the reviewer's initial skepticism. No complaints or negative issues are mentioned. The enthusiasm level is high, with vivid descriptions and appreciation for the garden's features and wildlife.",True,"```json
+{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a positive sentiment overall, highlighting unique and fascinating aspects of the garden that changed the reviewer's initial skepticism. No complaints or negative issues are mentioned. The enthusiasm level is high, with vivid descriptions and appreciation for the garden's features and wildlife.""
+}
+```"
+5,5,"The review expresses a very positive sentiment with no complaints mentioned. The reviewer and her husband both enjoyed their drinks and food, highlighting the beer sampler, fries, and carne adovada. The atmosphere is described as great and laid back. Enthusiasm is high, with a strong recommendation given.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with no complaints mentioned. The reviewer and her husband both enjoyed their drinks and food, highlighting the beer sampler, fries, and carne adovada. The atmosphere is described as great and laid back. Enthusiasm is high, with a strong recommendation given.""
+}"
+4,4,"The review expresses generally positive sentiment with the chicken curry and fresh coconut water praised, but notes that the spring rolls and lemongrass chicken were only average (3 star). There is one mild complaint about some dishes being mediocre, but overall enthusiasm is moderate to high and prices are reasonable.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses generally positive sentiment with the chicken curry and fresh coconut water praised, but notes that the spring rolls and lemongrass chicken were only average (3 star). There is one mild complaint about some dishes being mediocre, but overall enthusiasm is moderate to high and prices are reasonable.""
+}"
+2,2,"The sentiment is mixed but leans negative due to overpriced food and poor service despite liking the nachos. There are multiple complaints: overpriced food, mediocre quality compared to competitors, and notably bad, intrusive, and slow service. Enthusiasm is moderate (3) because the reviewer appreciates the nachos but is overall dissatisfied and plans to try other places. Given the negative service experience and multiple complaints, the rating is low.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The sentiment is mixed but leans negative due to overpriced food and poor service despite liking the nachos. There are multiple complaints: overpriced food, mediocre quality compared to competitors, and notably bad, intrusive, and slow service. Enthusiasm is moderate (3) because the reviewer appreciates the nachos but is overall dissatisfied and plans to try other places. Given the negative service experience and multiple complaints, the rating is low.""
+}"
+5,5,"The review expresses a very positive sentiment with strong enthusiasm for the performance, praising the actors, orchestra, and overall production. Although the reviewer mentions the relatively high ticket and parking fees as a potential deterrent for some, this is presented as an understandable external factor rather than a complaint about the show itself. There are no direct complaints about the performance or experience. Sentiment and enthusiasm are both high, and the minor issue noted does not detract from the overall positive impression.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with strong enthusiasm for the performance, praising the actors, orchestra, and overall production. Although the reviewer mentions the relatively high ticket and parking fees as a potential deterrent for some, this is presented as an understandable external factor rather than a complaint about the show itself. There are no direct complaints about the performance or experience. Sentiment and enthusiasm are both high, and the minor issue noted does not detract from the overall positive impression.""
+}"
+4,4,"The review expresses a generally positive sentiment with appreciation for the food sampler and atmosphere, indicating enthusiasm around the cuisine. However, there is a mild negative mention of the location being near 'Communist neighbors' which can be interpreted as a subtle complaint or negative issue. Sentiment and enthusiasm are high, but the presence of this complaint reduces the rating from 5 to 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment with appreciation for the food sampler and atmosphere, indicating enthusiasm around the cuisine. However, there is a mild negative mention of the location being near 'Communist neighbors' which can be interpreted as a subtle complaint or negative issue. Sentiment and enthusiasm are high, but the presence of this complaint reduces the rating from 5 to 4 stars.""
+}"
+1,1,"The review expresses strong negative sentiment with words like 'disgusting' and 'pretty bad,' mentions multiple complaints including outdated decor and flavorless food, and shows very low enthusiasm.",True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong negative sentiment with words like 'disgusting' and 'pretty bad,' mentions multiple complaints including outdated decor and flavorless food, and shows very low enthusiasm.""
+}"
+2,2,"The sentiment is slightly negative to neutral (score around 2.5) due to dissatisfaction with the high cost and perceived pretentious atmosphere despite decent food and good service. There are multiple complaints: high price, lack of uniqueness in food, and pretentious ambiance. Enthusiasm is low (around 2) as the reviewer is not planning to return and expresses disappointment. Overall, the negative issues and low enthusiasm outweigh the few positive remarks, leading to a 2-star rating.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The sentiment is slightly negative to neutral (score around 2.5) due to dissatisfaction with the high cost and perceived pretentious atmosphere despite decent food and good service. There are multiple complaints: high price, lack of uniqueness in food, and pretentious ambiance. Enthusiasm is low (around 2) as the reviewer is not planning to return and expresses disappointment. Overall, the negative issues and low enthusiasm outweigh the few positive remarks, leading to a 2-star rating.""
+}"
+3,3,"The reviewer expresses mixed feelings: they like the atmosphere, service, and happy hour deals, but complain about the loud music and small portion sizes. Sentiment is moderate with some complaints, and enthusiasm is average, resulting in a neutral overall rating.",True,"```json
+{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The reviewer expresses mixed feelings: they like the atmosphere, service, and happy hour deals, but complain about the loud music and small portion sizes. Sentiment is moderate with some complaints, and enthusiasm is average, resulting in a neutral overall rating.""
+}
+```"
+4,5,"The review expresses consistently positive sentiment with praise for beer selection, cocktails, outstanding pizza, and a healthy menu. There are no complaints mentioned, and the enthusiasm level is high, making it an exception to the reviewer's usual avoidance of chains.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses consistently positive sentiment with praise for beer selection, cocktails, outstanding pizza, and a healthy menu. There are no complaints mentioned, and the enthusiasm level is high, making it an exception to the reviewer's usual avoidance of chains.""
+}"
+2,3,"The review expresses a mixed sentiment: the experience was stressful and involved multiple negative incidents such as broken down cars, unhelpful bystanders, and a tense atmosphere. However, the tone is somewhat humorous and appreciative of the help received from two teenagers, showing some positive elements. There are at least 3 clear complaints (broken down cars, unhelpful people, and feeling unsafe). Enthusiasm is moderate, reflecting a storytelling style rather than outright enthusiasm or negativity. Overall, sentiment is around neutral (3), with multiple complaints and moderate enthusiasm, leading to a 3-star rating.",True,"```json
+{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses a mixed sentiment: the experience was stressful and involved multiple negative incidents such as broken down cars, unhelpful bystanders, and a tense atmosphere. However, the tone is somewhat humorous and appreciative of the help received from two teenagers, showing some positive elements. There are at least 3 clear complaints (broken down cars, unhelpful people, and feeling unsafe). Enthusiasm is moderate, reflecting a storytelling style rather than outright enthusiasm or negativity. Overall, sentiment is around neutral (3), with multiple complaints and moderate enthusiasm, leading to a 3-star rating.""
+}
+```"
+1,1,"The review expresses strong negative sentiment about the service being awful and slow, with multiple complaints about long wait times and poor service. The food is described as just okay, indicating mediocre quality. Enthusiasm is very low, and there are multiple clear complaints, leading to a low overall rating.",True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong negative sentiment about the service being awful and slow, with multiple complaints about long wait times and poor service. The food is described as just okay, indicating mediocre quality. Enthusiasm is very low, and there are multiple clear complaints, leading to a low overall rating.""
+}"
+4,5,The review expresses strong positive sentiment with no complaints mentioned and high enthusiasm about the pizzas satisfying the family's tastes and leaving everyone happy.,True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses strong positive sentiment with no complaints mentioned and high enthusiasm about the pizzas satisfying the family's tastes and leaving everyone happy.""
+}"
+4,4,"The review expresses a positive sentiment with enthusiasm for the pub's offerings such as Smithwick's on tap, award-winning fish & chips, good vibe, and live music. There are no explicit complaints, but the reviewer stops short of a perfect score, indicating minor reservations or room for improvement.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive sentiment with enthusiasm for the pub's offerings such as Smithwick's on tap, award-winning fish & chips, good vibe, and live music. There are no explicit complaints, but the reviewer stops short of a perfect score, indicating minor reservations or room for improvement.""
+}"
+5,5,"The review expresses very positive sentiment with no complaints mentioned. The reviewer highlights an amazing meal, great ambiance, unique food, and a memorable experience, indicating high enthusiasm and satisfaction.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with no complaints mentioned. The reviewer highlights an amazing meal, great ambiance, unique food, and a memorable experience, indicating high enthusiasm and satisfaction.""
+}"
+4,5,"The review expresses very positive sentiment about the freshness of the meat and bread, indicating high enthusiasm and no complaints.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment about the freshness of the meat and bread, indicating high enthusiasm and no complaints.""
+}"
+4,4,"The sentiment is positive with a score around 4, as the reviewer enjoys trying different menu items and finds them good. There is a minor complaint about the heat level not being very intense, but it is not a strong negative issue. Enthusiasm is moderate to high at about 4, reflecting ongoing interest in the restaurant.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The sentiment is positive with a score around 4, as the reviewer enjoys trying different menu items and finds them good. There is a minor complaint about the heat level not being very intense, but it is not a strong negative issue. Enthusiasm is moderate to high at about 4, reflecting ongoing interest in the restaurant.""
+}"
+4,4,"The review is overall positive with a sentiment score of 4, praising the value, service, and restaurant. There is one minor complaint about incomplete room makeovers and disappointing carpeting, which lowers enthusiasm slightly to 4. Since sentiment and enthusiasm are high but there is a complaint, the rating is 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall positive with a sentiment score of 4, praising the value, service, and restaurant. There is one minor complaint about incomplete room makeovers and disappointing carpeting, which lowers enthusiasm slightly to 4. Since sentiment and enthusiasm are high but there is a complaint, the rating is 4 stars.""
+}"
+4,3,"The reviewer expresses overall liking for the restaurant and its ambiance, indicating positive sentiment initially. However, multiple complaints are mentioned: the restaurant being too warm, slow service for the soup, dissatisfaction with the soup's taste and appearance, and receiving the check too early. Enthusiasm is moderate, as the reviewer still 'digs this place' despite the issues. The sentiment is around neutral to slightly positive, with notable negative points, leading to a balanced 3-star rating.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The reviewer expresses overall liking for the restaurant and its ambiance, indicating positive sentiment initially. However, multiple complaints are mentioned: the restaurant being too warm, slow service for the soup, dissatisfaction with the soup's taste and appearance, and receiving the check too early. Enthusiasm is moderate, as the reviewer still 'digs this place' despite the issues. The sentiment is around neutral to slightly positive, with notable negative points, leading to a balanced 3-star rating.""
+}"
+3,4,"The review expresses positive sentiment about the place, especially for children who like trains, indicating enthusiasm. However, the reviewer only visits when their cousin is in town, suggesting limited personal enthusiasm. No complaints are mentioned, but the sentiment is slightly moderate rather than highly enthusiastic.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses positive sentiment about the place, especially for children who like trains, indicating enthusiasm. However, the reviewer only visits when their cousin is in town, suggesting limited personal enthusiasm. No complaints are mentioned, but the sentiment is slightly moderate rather than highly enthusiastic.""
+}"
+3,4,"The review expresses generally positive sentiment with appreciation for the British theme, beer selection, and cozy atmosphere. However, there are a few minor complaints: lack of a preferred beer on tap, an off-putting music selection, and a somewhat odd kitchen smell. Enthusiasm is moderate to high, with the reviewer likely to return for food and drinks on busier nights. Overall, sentiment and enthusiasm are strong but tempered by some negative issues, resulting in a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses generally positive sentiment with appreciation for the British theme, beer selection, and cozy atmosphere. However, there are a few minor complaints: lack of a preferred beer on tap, an off-putting music selection, and a somewhat odd kitchen smell. Enthusiasm is moderate to high, with the reviewer likely to return for food and drinks on busier nights. Overall, sentiment and enthusiasm are strong but tempered by some negative issues, resulting in a 4-star rating.""
+}"
+4,4,"The reviewer had an overall positive experience with the food, especially praising the sandwich as one of the best they've had, which indicates a high sentiment score around 4. There is one clear complaint about a disruptive patron at the bar and the lack of enforcement of dress code, which counts as one negative issue. Enthusiasm is moderately high (around 4) given the surprise and compliments despite initial low expectations. Since sentiment and enthusiasm are both ≥4 but there is one complaint, the final rating is 4 stars.",True,"```json
+{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer had an overall positive experience with the food, especially praising the sandwich as one of the best they've had, which indicates a high sentiment score around 4. There is one clear complaint about a disruptive patron at the bar and the lack of enforcement of dress code, which counts as one negative issue. Enthusiasm is moderately high (around 4) given the surprise and compliments despite initial low expectations. Since sentiment and enthusiasm are both ≥4 but there is one complaint, the final rating is 4 stars.""
+}
+```"
+5,4,"The review expresses strong positive sentiment and high enthusiasm about the tour and its immersive experience, but mentions one complaint regarding the disrepair of some rooms. The enthusiasm and sentiment are both high, but the presence of a complaint reduces the rating from 5 to 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses strong positive sentiment and high enthusiasm about the tour and its immersive experience, but mentions one complaint regarding the disrepair of some rooms. The enthusiasm and sentiment are both high, but the presence of a complaint reduces the rating from 5 to 4 stars.""
+}"
+5,5,"The review expresses very positive sentiment with no complaints mentioned. The user is enthusiastic about the experience, praising the professionalism, expertise, and effectiveness of the massage therapist. Both sentiment and enthusiasm are high, leading to a 5-star rating.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with no complaints mentioned. The user is enthusiastic about the experience, praising the professionalism, expertise, and effectiveness of the massage therapist. Both sentiment and enthusiasm are high, leading to a 5-star rating.""
+}"
+4,4,"The review expresses a generally positive sentiment with strong enthusiasm for the food, especially the garlic appetizer and pizza, and appreciation for the ambiance. However, there are two minor complaints related to inconsistent service: the original server disappearing before the meal and a delay in service transition without communication. Despite these issues, the overall tone remains favorable and enthusiastic, leading to a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a generally positive sentiment with strong enthusiasm for the food, especially the garlic appetizer and pizza, and appreciation for the ambiance. However, there are two minor complaints related to inconsistent service: the original server disappearing before the meal and a delay in service transition without communication. Despite these issues, the overall tone remains favorable and enthusiastic, leading to a 4-star rating.""
+}"
+3,2,"The sentiment is negative due to the complaint about high price, with one clear complaint about being overpriced. Enthusiasm is low as the food is described as just ok and the price is called outrageous.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The sentiment is negative due to the complaint about high price, with one clear complaint about being overpriced. Enthusiasm is low as the food is described as just ok and the price is called outrageous.""
+}"
+1,1,"The review expresses strong negative sentiment due to poor customer service, specifically the employee's inattentiveness and lack of courtesy. There are multiple complaints about the staff's behavior and the overall experience, leading the reviewer to avoid future purchases at the store despite interest in the products. Enthusiasm is very low as the reviewer explicitly states they will not return, resulting in a final rating of 1 star.",True,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong negative sentiment due to poor customer service, specifically the employee's inattentiveness and lack of courtesy. There are multiple complaints about the staff's behavior and the overall experience, leading the reviewer to avoid future purchases at the store despite interest in the products. Enthusiasm is very low as the reviewer explicitly states they will not return, resulting in a final rating of 1 star.""
+}"
+3,4,"The review expresses strong positive sentiment about the food, ambiance, menu, and staff, with high enthusiasm evident in phrases like 'deeee-licious' and 'loooooooooooove.' However, there are a few mild complaints: the feeling of being 'some trendy little scottsdale frou-frou,' salads being 'a little on the sweet side,' and the restaurant being 'on the pricey side.' These minor negatives prevent a perfect rating but do not significantly detract from the overall positive experience.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses strong positive sentiment about the food, ambiance, menu, and staff, with high enthusiasm evident in phrases like 'deeee-licious' and 'loooooooooooove.' However, there are a few mild complaints: the feeling of being 'some trendy little scottsdale frou-frou,' salads being 'a little on the sweet side,' and the restaurant being 'on the pricey side.' These minor negatives prevent a perfect rating but do not significantly detract from the overall positive experience.""
+}"
+4,5,The review expresses a positive sentiment with no complaints mentioned and a high level of enthusiasm about the food and ambiance.,True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a positive sentiment with no complaints mentioned and a high level of enthusiasm about the food and ambiance.""
+}"
+3,5,The review expresses positive sentiment with no complaints mentioned and high enthusiasm for the food and service.,True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses positive sentiment with no complaints mentioned and high enthusiasm for the food and service.""
+}"
+5,5,"The review expresses very positive sentiment with high enthusiasm and no complaints mentioned. The customer praises the service quality, pricing, atmosphere, and overall experience, indicating strong satisfaction and loyalty.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with high enthusiasm and no complaints mentioned. The customer praises the service quality, pricing, atmosphere, and overall experience, indicating strong satisfaction and loyalty.""
+}"
+5,4,"The reviewer expresses strong positive sentiment about the happy hour menu, calling it one of the best and praising the drink and food options. However, they explicitly warn against ordering from the regular menu and mention a negative experience with the fish chili. Additionally, there is a minor complaint about the parking validation process being a 'buzzkill.' Overall enthusiasm is high for happy hour but tempered by these complaints, resulting in a positive but not perfect rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer expresses strong positive sentiment about the happy hour menu, calling it one of the best and praising the drink and food options. However, they explicitly warn against ordering from the regular menu and mention a negative experience with the fish chili. Additionally, there is a minor complaint about the parking validation process being a 'buzzkill.' Overall enthusiasm is high for happy hour but tempered by these complaints, resulting in a positive but not perfect rating.""
+}"
+5,5,"The review expresses very positive sentiment with strong enthusiasm and no complaints mentioned. The reviewer is excited about the food, eager to try everything on the menu, and recommends specific dishes highly. The overall tone is upbeat and satisfied.",True,"```json
+{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with strong enthusiasm and no complaints mentioned. The reviewer is excited about the food, eager to try everything on the menu, and recommends specific dishes highly. The overall tone is upbeat and satisfied.""
+}
+```"
+4,4,"The review is generally positive with tasty food and a good atmosphere, but mentions some complaints such as noise level and slow service. Sentiment and enthusiasm are high, but the presence of minor issues results in a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is generally positive with tasty food and a good atmosphere, but mentions some complaints such as noise level and slow service. Sentiment and enthusiasm are high, but the presence of minor issues results in a 4-star rating.""
+}"
+2,2,"The sentiment is negative (score 2) with one complaint about the place not being great to eat. Enthusiasm is low (2), and there is a clear negative issue mentioned. Therefore, the rating is 2 stars.",True,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The sentiment is negative (score 2) with one complaint about the place not being great to eat. Enthusiasm is low (2), and there is a clear negative issue mentioned. Therefore, the rating is 2 stars.""
+}"
+4,4,"The review is overall very positive with high enthusiasm and praise for drinks, atmosphere, food, and people. There is one minor complaint about a creepy person staring, but it is downplayed and not a major issue. Sentiment and enthusiasm are high, but the presence of a complaint lowers the rating to 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall very positive with high enthusiasm and praise for drinks, atmosphere, food, and people. There is one minor complaint about a creepy person staring, but it is downplayed and not a major issue. Sentiment and enthusiasm are high, but the presence of a complaint lowers the rating to 4 stars.""
+}"
+3,3,"The review expresses moderate positive sentiment with appreciation for some items like pita, fire feta, and tea, but also mentions several complaints about the salad, rice, and tzaziki sauce. The overall enthusiasm is moderate, indicating the reviewer finds the place decent but not exceptional.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses moderate positive sentiment with appreciation for some items like pita, fire feta, and tea, but also mentions several complaints about the salad, rice, and tzaziki sauce. The overall enthusiasm is moderate, indicating the reviewer finds the place decent but not exceptional.""
+}"
+5,5,"The review expresses very positive sentiment with no complaints mentioned. The reviewer is enthusiastic about the experience, praising the food and the free sample, and looking forward to the next visit.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with no complaints mentioned. The reviewer is enthusiastic about the experience, praising the food and the free sample, and looking forward to the next visit.""
+}"
+5,5,"The review expresses a very positive sentiment with praise for the quality and freshness of the smoothies, mentions no complaints, and shows high enthusiasm by recommending others to try it and noting good value for the price.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a very positive sentiment with praise for the quality and freshness of the smoothies, mentions no complaints, and shows high enthusiasm by recommending others to try it and noting good value for the price.""
+}"
+3,3,"The review expresses high enthusiasm and excellent service (5 stars for service, friendly staff, and cool ambiance), but the food quality is mediocre (2.5 stars) with multiple complaints about blandness and saltiness. The sentiment is mixed, leaning towards neutral overall, reflecting appreciation for the experience but disappointment with the main dishes. This results in a moderate rating.",True,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses high enthusiasm and excellent service (5 stars for service, friendly staff, and cool ambiance), but the food quality is mediocre (2.5 stars) with multiple complaints about blandness and saltiness. The sentiment is mixed, leaning towards neutral overall, reflecting appreciation for the experience but disappointment with the main dishes. This results in a moderate rating.""
+}"
+4,5,"The review expresses a highly positive sentiment with no complaints mentioned. The enthusiasm level is very high, as the reviewer uses words like 'outstanding,' 'amazing,' 'delicious,' and 'definitely recommend,' indicating strong satisfaction and eagerness to return.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a highly positive sentiment with no complaints mentioned. The enthusiasm level is very high, as the reviewer uses words like 'outstanding,' 'amazing,' 'delicious,' and 'definitely recommend,' indicating strong satisfaction and eagerness to return.""
+}"
+5,5,"The review expresses very positive sentiment with no complaints mentioned and high enthusiasm about the workout experience, indicating a strong likelihood of a 5-star rating.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with no complaints mentioned and high enthusiasm about the workout experience, indicating a strong likelihood of a 5-star rating.""
+}"
+3,4,"The reviewer expresses generally positive sentiment about the coffee and food, indicating satisfaction with no direct complaints about quality. However, they mention a negative aspect regarding the atmosphere, feeling unable to relax and enjoy the space, which counts as a complaint. Sentiment is positive (around 4), enthusiasm moderate (around 3-4), and there is one mild complaint, leading to a 4-star rating.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The reviewer expresses generally positive sentiment about the coffee and food, indicating satisfaction with no direct complaints about quality. However, they mention a negative aspect regarding the atmosphere, feeling unable to relax and enjoy the space, which counts as a complaint. Sentiment is positive (around 4), enthusiasm moderate (around 3-4), and there is one mild complaint, leading to a 4-star rating.""
+}"
+5,5,"The review expresses very positive sentiment with no complaints mentioned and high enthusiasm about the place, drinks, and vibe.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment with no complaints mentioned and high enthusiasm about the place, drinks, and vibe.""
+}"
+4,4,"The review expresses a positive sentiment towards Apple products, highlighting enthusiasm and amazement. However, it mentions the expense as a minor complaint, which lowers the rating from 5 to 4 stars.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive sentiment towards Apple products, highlighting enthusiasm and amazement. However, it mentions the expense as a minor complaint, which lowers the rating from 5 to 4 stars.""
+}"
+4,5,"The review is highly positive, praising the variety, affordability, and quality of the food. There are no complaints mentioned, and the enthusiasm is very high as the reviewer clearly prefers this place over a competitor.",True,"```json
+{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review is highly positive, praising the variety, affordability, and quality of the food. There are no complaints mentioned, and the enthusiasm is very high as the reviewer clearly prefers this place over a competitor.""
+}
+```"
+3,4,"The review is overall positive with a sentiment score of 4 due to praise for traditional food, good portions, solid service, and atmosphere. However, there are two minor complaints: margaritas aren't great and dessert is not recommended. Enthusiasm is moderate to high at 4, reflecting genuine appreciation but tempered by some critiques. Since sentiment and enthusiasm are ≥4 but there are some complaints, a 4-star rating is appropriate.",True,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review is overall positive with a sentiment score of 4 due to praise for traditional food, good portions, solid service, and atmosphere. However, there are two minor complaints: margaritas aren't great and dessert is not recommended. Enthusiasm is moderate to high at 4, reflecting genuine appreciation but tempered by some critiques. Since sentiment and enthusiasm are ≥4 but there are some complaints, a 4-star rating is appropriate.""
+}"
+4,5,"The review expresses very positive sentiment about the food and service, with no complaints mentioned. Enthusiasm is high, indicated by phrases like 'Very good food!' and 'Would definitely return!'.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment about the food and service, with no complaints mentioned. Enthusiasm is high, indicated by phrases like 'Very good food!' and 'Would definitely return!'.""
+}"
+5,5,"The review expresses very positive sentiment throughout, praising the variety of offerings, quality of food, and overall experience. There are no complaints or negative issues mentioned. The enthusiasm level is high, as the reviewer mentions frequent visits and strong appreciation for the products.",True,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses very positive sentiment throughout, praising the variety of offerings, quality of food, and overall experience. There are no complaints or negative issues mentioned. The enthusiasm level is high, as the reviewer mentions frequent visits and strong appreciation for the products.""
+}"
